@@ -10,9 +10,20 @@ Most nouns form their plural by adding `-s`.
 
 ### Examples
 - a house ⇨ two house`s`
+- a dialogue ⇨ many dialogue`s` (/ˈdaɪəlɒɡ/ ⇨ /ˈdaɪəlɒɡz/)
+- a pair ⇨ two pair`s` (/peə(r)/)
+- a grocer ⇨ two grocer`s` (/ˈɡrəʊsə(r)/)
+- an example ⇨ two example`s` (/ɪɡˈzɑːmpl/)
 - a car ⇨ two car`s`
 - a clock ⇨ two clock`s`
 - a skirt ⇨ two skirt`s`
+- a d**ay** ⇨ two d**ay**`s`
+- a monk**ey** ⇨ two monk**ey**`s`
+- a b**oy** ⇨ two b**oy**`s`
+- a parrot ⇨ two parrot`s` (/ˈpærət/)
+- a swan ⇨ two swan`s` (/swɒn/)
+- a turkey ⇨ two turkey`s` (/ˈtɜːki/)
+- an exercise ⇨ two exercise`s` (/ˈeksərsaɪz/ ⇨ /ˈeksərsaɪzɪz/)
 
 <br>
 
@@ -46,16 +57,6 @@ Some nouns ending in `o` take only `s` in the plural.
 <br>
 
 ## Exception 3
-Nouns ending in `vowel + y` (/ˈvaʊəl/) take `s` in the plural.
-
-### Examples
-- a d**ay** ⇨ two d**ay**`s`
-- a monk**ey** ⇨ two monk**ey**`s`
-- a b**oy** ⇨ two b**oy**`s`
-
-<br>
-
-## Exception 4
 Nouns ending in `consonant + y` (/ˈkɑːnsənənt/) drop the `y` and take `ies` in the plural.
 
 ### Examples
@@ -65,24 +66,24 @@ Nouns ending in `consonant + y` (/ˈkɑːnsənənt/) drop the `y` and take `ies`
 
 <br>
 
-## Exception 5
+## Exception 4
 Nouns ending in `f` or `fe` drop `f` or `fe` and take `ves` in the plural.
 
 ### Examples
 - a kni**fe** ⇨ two kni`ves`
-- a lea**f** ⇨ two lea`ves`
+- a lea**f** ⇨ two lea`ves` (/liːf/ ⇨ /liːvz/)
 - a wol**f** ⇨ two wol`ves`
-- a cal**f** ⇨ two cal`ves`
+- a cal**f** ⇨ two cal`ves` (/kɑːf/)
 - a wi**fe**  ⇨ two wi`ves`
 
 <br>
 
-## Exception 6
+## Exception 5
 Some nouns ending in `f` or `fe` take only `s` in the plural.
 
 ### Examples
 - a roo**f** ⇨ two roo**f**`s`
-- a giraf**fe** ⇨ two giraf**fe**`s` (/dʒɪˈrɑːf/)
+- a giraf**fe** ⇨ two giraf**fe**`s` (/dʒəˈræf/)
 - a clif**f** ⇨ two clif**f**`s`
 
 <br>
@@ -106,7 +107,7 @@ The suffix of the plural form is pronounced `/ɪz/` when the noun ends in a `/ʃ
 ### Examples
 - `/ʃ/` `/ɪz/`: brushes, bushes, dishes
 - `/tʃ/` `/ɪz/`: torches, ostriches, watches
-- `/dʒ/` `/ɪz/`: cages, bridges, oranges (/ˈɒrɪn(d)ʒ/ ⇨ /ˈɒrɪn(d)ʒɪz/)
+- `/dʒ/` `/ɪz/`: cages (/keɪdʒ/ ⇨ /keɪdʒɪz/), bridges, oranges (/ˈɒrɪn(d)ʒ/ ⇨ /ˈɒrɪn(d)ʒɪz/)
 - `/ʒ/` `/ɪz/`: mirages (/ˈmɪrɑːʒ/ ⇨ /ˈmɪrɑːʒɪz/)
 - `/z/` `/ɪz/`: roses (/rəʊz/ ⇨ /ˈrəʊzɪz/)
 - `/s/`  `/ɪz/`: buses, dresses
@@ -118,9 +119,18 @@ The suffix of the plural form is pronounced `/ɪz/` when the noun ends in a `/ʃ
 The suffix of the plural form is pronounced `/z/` when the noun ends in any other sound.
 
 ### Examples
-- onions, rooms, lemons, pianos, pears (/'peə(r)/ ⇨ /peə(r)z/), ferries, chairs, birds, balls, doors, songs, babies, flowers, leaves
+- onions, rooms, lemons, pianos, pears (/'peə(r)/ ⇨ /peə(r)z/), ferries (/ˈferi/ ⇨ /ˈferiz/), chairs, birds, balls, doors, songs, babies, flowers, leaves
 
 <br>
 
 # Irregular /ɪˈreɡjələ(r)/ plurals
-
+1. a man ⇨ two men (/mæn/ ⇨ /men/) (policeman /pəˈliːsmən/ ⇨ policemen)
+2. a woman ⇨ two women (/ˈwʊmən/ ⇨ /ˈwɪmɪn/)
+3. a tooth ⇨ two teeth (/tuːθ/ ⇨ /tiːθ/)
+4. a foot ⇨ two feet (/fʊt/ ⇨ /fiːt/)
+5. a goose ⇨ two geese (/ɡuːs/ ⇨ /ɡiːs/)
+6. a ox ⇨ two oxen (/ɒks/ ⇨ /ˈɒksn/)
+7. a deer ⇨ two deer (/dɪə(r)/ ⇨ /dɪə(r)/)
+8. a sheep ⇨ two sheep (/ʃiːp/ ⇨ /ʃiːp/)
+9. a mouse ⇨ two mice (/maʊs/ ⇨ /maɪs/)
+10. a child ⇨ two children (/tʃaɪld/ ⇨ /ˈtʃɪldrən/)
