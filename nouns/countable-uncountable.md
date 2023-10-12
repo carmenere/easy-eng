@@ -12,7 +12,6 @@
 - `a` leaf ⇨ `some` leaves
 - `a` cup ⇨ `some` cups
 - `a` biscuit (/ˈbɪskɪt/) ⇨ `some` biscuits
-- `an` orange
 
 <br>
 
@@ -44,35 +43,18 @@ We use `some` before the noun in the **plural**.
 
 # Phrases (/freɪzɪz/) of quantity (/ˈkwɒntəti/)
 We can use countable and uncountable nouns after phrases of quantity such as:
-- a jar of ⇨ two jar`s` of
-- a bottle of ⇨ two bottle`s` of
-- a piece of ⇨ two piece`s` of (/piːs/)
-- a loaf of ⇨ two loaf`s` of (/ləʊf/)
-- a cup of ⇨ two cup`s` of
-- a bar of ⇨ two bar`s` of
-- a glass of ⇨ two glass`es` of
-- a kilo of ⇨ two kilo`s` of
-- a carton of ⇨ two carton`s` of (/ˈkɑːtn/)
-- a bowl of ⇨ two bowl`s` of  (/bəʊl/)
-- a can of ⇨ two can`s` of
-- a jug of ⇨ two jug`s` of (/dʒʌɡ/)
-- a slice of ⇨ two slice`s` of
-- a tin of ⇨ two tin`s` of
-- a packet of ⇨ two packet`s` of (/ˈpækɪt/)
-- a glass of lemonade (/ˌleməˈneɪd/)
-
-<br>
-
-## Examples
-- a jar of marmalade (/ˈmɑːməleɪd/)
-- a bar of soap
-- a bottle of wine
-- a jug of juice
-- a carton of milk
-- a piece of pie
-- a kilo of meat
-- a bowl of soup
-- a can of coke
-- three slices of bread
-- a tin of beans
-- a packet of spaghetti (/spəˈɡeti/)
+- a jar of marmalade ⇨ two jar`s` of marmalade (/ˈmɑːməleɪd/)
+- a bottle of wine ⇨ two bottle`s` of wine
+- a piece of pie ⇨ two piece`s` of pie (/piːs/)
+- a loaf of bread ⇨ two loaf`s` of bread (/ləʊf/)
+- a cup of tea ⇨ two cup`s` of tea
+- a bar of soap ⇨ two bar`s` of soap
+- a kilo of meat ⇨ two kilo`s` of meat
+- a carton of milk ⇨ two carton`s` of milk (/ˈkɑːtn/)
+- a bowl of soup ⇨ two bowl`s` of soup (/bəʊl/)
+- a can of Сoke ⇨ two can`s` of Сoke
+- a jug of juice ⇨ two jug`s` of juice (/dʒʌɡ/)
+- a slice of bread ⇨ two slice`s` of bread
+- a tin of tuna ⇨ two tin`s` of tuna
+- a packet of spaghetti ⇨ two packet`s` of spaghetti (/ˈpækɪt/) (/spəˈɡeti/)
+- a glass of lemonade ⇨ two glass`es` of lemonade (/ˌleməˈneɪd/)
