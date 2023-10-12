@@ -93,11 +93,11 @@ Some nouns ending in `f` or `fe` take only `s` in the plural.
 The suffix /ˈsʌfɪks/ of the plural form is pronounced (/prəˈnaʊnst/) `/s/` when the noun ends in a `/p/`, `/k/`, `/t/`, `/f/` or `/θ/` sound.
 
 ### Examples
-- `/p/` `/s/`: shops, caps (/kæps/)
-- `/k/` `/s/`: books, ducks
-- `/t/` `/s/`: cats, shirts (/ˈʃɜːts/)
-- `/f/` `/s/`: cliffs
-- `/θ/` `/s/`: myths (/mɪθs/)
+- `/ps/`: shops, caps (/kæps/)
+- `/ks/`: books, ducks
+- `/ts/`: cats, shirts (/ˈʃɜːts/)
+- `/fs/`: cliffs
+- `/θs/`: myths (/mɪθs/)
 
 <br>
 
@@ -105,13 +105,13 @@ The suffix /ˈsʌfɪks/ of the plural form is pronounced (/prəˈnaʊnst/) `/s/`
 The suffix of the plural form is pronounced `/ɪz/` when the noun ends in a `/ʃ/`, `/tʃ/`, `/dʒ/`, `/ʒ/`, `/z/`, `/s/` or `/ks/` sound.
 
 ### Examples
-- `/ʃ/` `/ɪz/`: brushes, bushes, dishes
-- `/tʃ/` `/ɪz/`: torches, ostriches, watches
-- `/dʒ/` `/ɪz/`: cages (/keɪdʒ/ ⇨ /keɪdʒɪz/), bridges, oranges (/ˈɒrɪn(d)ʒ/ ⇨ /ˈɒrɪn(d)ʒɪz/)
-- `/ʒ/` `/ɪz/`: mirages (/ˈmɪrɑːʒ/ ⇨ /ˈmɪrɑːʒɪz/)
-- `/z/` `/ɪz/`: roses (/rəʊz/ ⇨ /ˈrəʊzɪz/)
-- `/s/`  `/ɪz/`: buses, dresses
-- `/ks/` `/ɪz/`: foxes, boxes
+- `/ʃɪz/`: brushes, bushes, dishes
+- `/tʃɪz/`: torches, ostriches, watches
+- `/dʒɪz/`: cages (/keɪdʒ/ ⇨ /keɪdʒɪz/), bridges, oranges (/ˈɒrɪn(d)ʒ/ ⇨ /ˈɒrɪn(d)ʒɪz/)
+- `/ʒɪz/`: mirages (/ˈmɪrɑːʒ/ ⇨ /ˈmɪrɑːʒɪz/)
+- `/zɪz/`: roses (/rəʊz/ ⇨ /ˈrəʊzɪz/)
+- `/sɪz/`: buses, dresses
+- `/ksɪz/`: foxes, boxes
 
 <br>
 
@@ -119,7 +119,20 @@ The suffix of the plural form is pronounced `/ɪz/` when the noun ends in a `/ʃ
 The suffix of the plural form is pronounced `/z/` when the noun ends in any other sound.
 
 ### Examples
-- onions, rooms, lemons, pianos, pears (/'peə(r)/ ⇨ /peə(r)z/), ferries (/ˈferi/ ⇨ /ˈferiz/), chairs, birds, balls, doors, songs, babies, flowers, leaves
+- onions
+- rooms
+- lemons
+- pianos
+- pears (/'peə(r)/ ⇨ /peə(r)z/)
+- ferries (/ˈferi/ ⇨ /ˈferiz/)
+- chairs
+- birds
+- balls
+- doors
+- songs
+- babies
+- flowers
+- leaves
 
 <br>
 

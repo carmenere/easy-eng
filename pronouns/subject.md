@@ -2,7 +2,7 @@
 We can use **subject pronouns** (aka **personal pronouns**) before a verb instead of the noun or the name of person.<br>
 (/ˈsʌbdʒɪkt/, /ˈsʌbdʒekt/, /ˈpɜːrsənl/, /ˈprəʊnaʊn/) <br>
 
-**Pint of view** is a perspective (/pərˈspektɪv/) a story is told from:
+**Point of view** is a perspective (/pərˈspektɪv/) a story is told from:
 - **first** person 
 - **second** person
 - **third** person
@@ -33,4 +33,3 @@ Sex:
 - `we`
 - `you`
 - `they` (for people, animals, plants, things)
-
