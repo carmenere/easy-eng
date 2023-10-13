@@ -36,7 +36,7 @@ A bird has got a beak, a tail and wings.
 
 <br>
 
-# Conjugatio and contractions
+# Conjugation and contractions
 ## Affirmative (/əˈfɜːrmətɪv/)
 - I `have` (got) → `I've` (got) /aɪv/ 
 - You `have` (got) → `You've` (got) /juːv/ 

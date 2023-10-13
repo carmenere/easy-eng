@@ -1,4 +1,4 @@
-# Conjugatio and contractions
+# Conjugation and contractions
 ## Affirmative (/əˈfɜːrmətɪv/)
 - I `am` → `I'm` /aɪm/
 - You `are` → `You're` /jʊəʳ/
