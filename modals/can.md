@@ -15,7 +15,7 @@ Yes, they can. They can ride a horse.
 
 <br>
 
-# Conjugatio and contractions
+# Conjugation and contractions
 - The verb `can` is **the same in all persons** in the *singular* and in the *plural*.
 - The verb `can` is always **followed by** a verb.
 
