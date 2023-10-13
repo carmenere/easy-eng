@@ -47,3 +47,7 @@ Examples:
 - Are `these` cups? Yes, they are. / No, the aren't.
 - Are `those` bears? Yes, the are. / No, they aren't.
 - Is `that` a car? Yes, it is. / No, it isn't.
+
+<br>
+
+# More examples

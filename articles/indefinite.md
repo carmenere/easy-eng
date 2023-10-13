@@ -28,3 +28,7 @@ The **indefinite** article `a/an` is used before **singular countable** nouns.
 - **in front of adjective** when there is **no noun** after it; but if there is a noun after the adjective we put `a/an` before it:
   - `a` before adjectives which begin with a **consonant** sound (It's `a` **f**ast car);
   - `an` before adjectives which begin with a **vowel** sound (It's `an` **e**xpensive car);
+
+<br>
+
+# More examples

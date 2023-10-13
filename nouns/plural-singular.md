@@ -147,3 +147,7 @@ The suffix of the plural form is pronounced `/z/` when the noun ends in any othe
 8. a sheep ⇨ two sheep (/ʃiːp/ ⇨ /ʃiːp/)
 9. a mouse ⇨ two mice (/maʊs/ ⇨ /maɪs/)
 10. a child ⇨ two children (/tʃaɪld/ ⇨ /ˈtʃɪldrən/)
+
+<br>
+
+# More examples

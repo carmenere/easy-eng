@@ -130,3 +130,7 @@ The **definite** article `the` is used with **singular** or **plural** nouns.
 10. With **possessive adjectives** or the **possessive case**:
     - That isn't my car.
     - It's Kate's.
+
+<br>
+
+# More examples
