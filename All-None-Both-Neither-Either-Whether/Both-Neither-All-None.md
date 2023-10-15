@@ -8,6 +8,7 @@
   - `Neither of` them **is** a footballer.
   - `Neither of` them **is** Italian.
   - `Neither of` them **is** a vase.
+  - `Neither of` my parents **can** dance well.
 - `All of` refers to **more** than **two** people, things, animals, etc. It has **positive** meaning and takes **plural** verb.
   - `All of` them **are** British.
   - `All of` them **are** kittens.
@@ -17,6 +18,9 @@
   - `None of` them **is** a puppy.
   - `None of` them **speak** Chinese.
   - `None of` them **is** a coin.
+  - `None of` the information **is** correct.
+  - `None of` the children in the class **passed** the final exam.
+  - `None of` these books **is** interesting.
 
 <br>
 
