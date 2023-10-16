@@ -1,5 +1,5 @@
 # `whether`/`if`
-`Whether` and `if` are conjunctions.<br>
+`Whether` and `if` are **conjunctions**.<br>
 We use `whether` (or `if`) in **indirect yes-no questions**:
 - I’m not sure `whether/if` she likes roses. (Yes/No)
 - They asked me `whether/if` I was tired.
