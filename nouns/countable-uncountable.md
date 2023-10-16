@@ -61,4 +61,24 @@ We can use countable and uncountable nouns after phrases of quantity such as:
 
 <br>
 
+## A pair of
+- scissors /ˈsɪzəz/
+- glasses /ˈɡlɑːsɪz/
+- trousers /ˈtraʊzəz/
+- jeans /dʒiːnz/
+- shorts /ʃɔːts/
+- tights /taɪts/
+- pyjamas /pəˈdʒɑːməz/
+
+You can say:
+- `a pair of` scissors;
+- `a pair of` jeans;
+
+<br>
+
+### Examples
+- Do you wear **glasses**?
+- Where **are** the **scissors**?<br>I need **them**.
+- I need a new `pair of` **jeans**.
+
 # More examples
