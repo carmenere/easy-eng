@@ -9,21 +9,21 @@
 Most nouns form their plural by adding `-s`.
 
 ### Examples
-- a house ⇨ two house`s`
-- a dialogue ⇨ many dialogue`s` (/ˈdaɪəlɒɡ/ ⇨ /ˈdaɪəlɒɡz/)
-- a pair ⇨ two pair`s` (/peə(r)/)
-- a grocer ⇨ two grocer`s` (/ˈɡrəʊsə(r)/)
-- an example ⇨ two example`s` (/ɪɡˈzɑːmpl/)
-- a car ⇨ two car`s`
-- a clock ⇨ two clock`s`
-- a skirt ⇨ two skirt`s`
-- a d**ay** ⇨ two d**ay**`s`
-- a monk**ey** ⇨ two monk**ey**`s`
-- a b**oy** ⇨ two b**oy**`s`
-- a parrot ⇨ two parrot`s` (/ˈpærət/)
-- a swan ⇨ two swan`s` (/swɒn/)
-- a turkey ⇨ two turkey`s` (/ˈtɜːki/)
-- an exercise ⇨ two exercise`s` (/ˈeksərsaɪz/ ⇨ /ˈeksərsaɪzɪz/)
+- a house → two house`s`
+- a dialogue → many dialogue`s` (/ˈdaɪəlɒɡ/ → /ˈdaɪəlɒɡz/)
+- a pair → two pair`s` (/peə(r)/)
+- a grocer → two grocer`s` (/ˈɡrəʊsə(r)/)
+- an example → two example`s` (/ɪɡˈzɑːmpl/)
+- a car → two car`s`
+- a clock → two clock`s`
+- a skirt → two skirt`s`
+- a d**ay** → two d**ay**`s`
+- a monk**ey** → two monk**ey**`s`
+- a b**oy** → two b**oy**`s`
+- a parrot → two parrot`s` (/ˈpærət/)
+- a swan → two swan`s` (/swɒn/)
+- a turkey → two turkey`s` (/ˈtɜːki/)
+- an exercise → two exercise`s` (/ˈeksərsaɪz/ → /ˈeksərsaɪzɪz/)
 
 <br>
 
@@ -31,15 +31,15 @@ Most nouns form their plural by adding `-s`.
 Nouns ending in `s`, `sh`, `ch`, `x`, `o` take `es` in the plural.
 
 ### Examples
-- a bu**s** ⇨ two bu**s**`es`
+- a bu**s** → two bu**s**`es`
 - a glas**s** two glas**s**`es`
-- a bru**sh** ⇨ two bru**sh**`es`
-- a pea**ch** ⇨ two pea**ch**`es`
-- a sandwi**ch** ⇨ two sandwi**ch**`es`
-- a tor**ch** ⇨ two tor**ch**`es`
-- a fo**x** ⇨ two fo**x**`es`
-- a tomat**o** ⇨ two tomat**o**`es` (/təˈmɑːtəʊ/ or /təˈmeɪtəʊ/)
-- a potat**o** ⇨ two potat**o**`es` (/pəˈteɪtəʊ/)
+- a bru**sh** → two bru**sh**`es`
+- a pea**ch** → two pea**ch**`es`
+- a sandwi**ch** → two sandwi**ch**`es`
+- a tor**ch** → two tor**ch**`es`
+- a fo**x** → two fo**x**`es`
+- a tomat**o** → two tomat**o**`es` (/təˈmɑːtəʊ/ or /təˈmeɪtəʊ/)
+- a potat**o** → two potat**o**`es` (/pəˈteɪtəʊ/)
 
 <br>
 
@@ -47,12 +47,12 @@ Nouns ending in `s`, `sh`, `ch`, `x`, `o` take `es` in the plural.
 Some nouns ending in `o` take only `s` in the plural.
 
 ### Examples
-- radi**o** ⇨ radio`s`
-- phot**o** ⇨ photo`s`
-- vide**o** ⇨ video`s`
-- pian**o** ⇨ piano`s`
-- rhin**o** ⇨ rhino`s` (/ˈraɪnəʊ/)
-- hipp**o** ⇨ hippo`s` (/ˈhɪpəʊ/, hippopotamus /ˌhɪpəˈpɒtəməs/)
+- radi**o** → radio`s`
+- phot**o** → photo`s`
+- vide**o** → video`s`
+- pian**o** → piano`s`
+- rhin**o** → rhino`s` (/ˈraɪnəʊ/)
+- hipp**o** → hippo`s` (/ˈhɪpəʊ/, hippopotamus /ˌhɪpəˈpɒtəməs/)
 
 <br>
 
@@ -60,9 +60,9 @@ Some nouns ending in `o` take only `s` in the plural.
 Nouns ending in `consonant + y` (/ˈkɑːnsənənt/) drop the `y` and take `ies` in the plural.
 
 ### Examples
-- a strawber**ry** ⇨ two strawberr`ies` (/ˈstrɔːberi/)
-- a raspber**ry** ⇨ two raspberr`ies` (/ˈrɑːzbəri/, /ˈræzberi/)
-- a cher**ry** ⇨ two cherr`ies`
+- a strawber**ry** → two strawberr`ies` (/ˈstrɔːberi/)
+- a raspber**ry** → two raspberr`ies` (/ˈrɑːzbəri/, /ˈræzberi/)
+- a cher**ry** → two cherr`ies`
 
 <br>
 
@@ -70,11 +70,11 @@ Nouns ending in `consonant + y` (/ˈkɑːnsənənt/) drop the `y` and take `ies`
 Nouns ending in `f` or `fe` drop `f` or `fe` and take `ves` in the plural.
 
 ### Examples
-- a kni**fe** ⇨ two kni`ves`
-- a lea**f** ⇨ two lea`ves` (/liːf/ ⇨ /liːvz/)
-- a wol**f** ⇨ two wol`ves`
-- a cal**f** ⇨ two cal`ves` (/kɑːf/)
-- a wi**fe**  ⇨ two wi`ves`
+- a kni**fe** → two kni`ves`
+- a lea**f** → two lea`ves` (/liːf/ → /liːvz/)
+- a wol**f** → two wol`ves`
+- a cal**f** → two cal`ves` (/kɑːf/)
+- a wi**fe**  → two wi`ves`
 
 <br>
 
@@ -82,9 +82,9 @@ Nouns ending in `f` or `fe` drop `f` or `fe` and take `ves` in the plural.
 Some nouns ending in `f` or `fe` take only `s` in the plural.
 
 ### Examples
-- a roo**f** ⇨ two roo**f**`s`
-- a giraf**fe** ⇨ two giraf**fe**`s` (/dʒəˈræf/)
-- a clif**f** ⇨ two clif**f**`s`
+- a roo**f** → two roo**f**`s`
+- a giraf**fe** → two giraf**fe**`s` (/dʒəˈræf/)
+- a clif**f** → two clif**f**`s`
 
 <br>
 
@@ -107,9 +107,9 @@ The suffix of the plural form is pronounced `/ɪz/` when the noun ends in a `/ʃ
 ### Examples
 - `/ʃɪz/`: brushes, bushes, dishes
 - `/tʃɪz/`: torches, ostriches, watches
-- `/dʒɪz/`: cages (/keɪdʒ/ ⇨ /keɪdʒɪz/), bridges, oranges (/ˈɒrɪn(d)ʒ/ ⇨ /ˈɒrɪn(d)ʒɪz/)
-- `/ʒɪz/`: mirages (/ˈmɪrɑːʒ/ ⇨ /ˈmɪrɑːʒɪz/)
-- `/zɪz/`: roses (/rəʊz/ ⇨ /ˈrəʊzɪz/)
+- `/dʒɪz/`: cages (/keɪdʒ/ → /keɪdʒɪz/), bridges, oranges (/ˈɒrɪn(d)ʒ/ → /ˈɒrɪn(d)ʒɪz/)
+- `/ʒɪz/`: mirages (/ˈmɪrɑːʒ/ → /ˈmɪrɑːʒɪz/)
+- `/zɪz/`: roses (/rəʊz/ → /ˈrəʊzɪz/)
 - `/sɪz/`: buses, dresses
 - `/ksɪz/`: foxes, boxes
 
@@ -123,8 +123,8 @@ The suffix of the plural form is pronounced `/z/` when the noun ends in any othe
 - rooms
 - lemons
 - pianos
-- pears (/'peə(r)/ ⇨ /peə(r)z/)
-- ferries (/ˈferi/ ⇨ /ˈferiz/)
+- pears (/'peə(r)/ → /peə(r)z/)
+- ferries (/ˈferi/ → /ˈferiz/)
 - chairs
 - birds
 - balls
@@ -137,16 +137,16 @@ The suffix of the plural form is pronounced `/z/` when the noun ends in any othe
 <br>
 
 # Irregular /ɪˈreɡjələ(r)/ plurals
-1. a man ⇨ two men (/mæn/ ⇨ /men/) (policeman /pəˈliːsmən/ ⇨ policemen)
-2. a woman ⇨ two women (/ˈwʊmən/ ⇨ /ˈwɪmɪn/)
-3. a tooth ⇨ two teeth (/tuːθ/ ⇨ /tiːθ/)
-4. a foot ⇨ two feet (/fʊt/ ⇨ /fiːt/)
-5. a goose ⇨ two geese (/ɡuːs/ ⇨ /ɡiːs/)
-6. a ox ⇨ two oxen (/ɒks/ ⇨ /ˈɒksn/)
-7. a deer ⇨ two deer (/dɪə(r)/ ⇨ /dɪə(r)/)
-8. a sheep ⇨ two sheep (/ʃiːp/ ⇨ /ʃiːp/)
-9. a mouse ⇨ two mice (/maʊs/ ⇨ /maɪs/)
-10. a child ⇨ two children (/tʃaɪld/ ⇨ /ˈtʃɪldrən/)
+1. a man → two men (/mæn/ → /men/) (policeman /pəˈliːsmən/ → policemen)
+2. a woman → two women (/ˈwʊmən/ → /ˈwɪmɪn/)
+3. a tooth → two teeth (/tuːθ/ → /tiːθ/)
+4. a foot → two feet (/fʊt/ → /fiːt/)
+5. a goose → two geese (/ɡuːs/ → /ɡiːs/)
+6. a ox → two oxen (/ɒks/ → /ˈɒksn/)
+7. a deer → two deer (/dɪə(r)/ → /dɪə(r)/)
+8. a sheep → two sheep (/ʃiːp/ → /ʃiːp/)
+9. a mouse → two mice (/maʊs/ → /maɪs/)
+10. a child → two children (/tʃaɪld/ → /ˈtʃɪldrən/)
 
 <br>
 
