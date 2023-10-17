@@ -13,9 +13,9 @@ The **past simple** is used for:
 1. We form the **past simple** by adding `-ed` to the **main verb**.
    - He play**ed** football yesterday.
 2. **Irregular** verbs don't form the past simple by adding `-ed`.
-3. We form **question** with the **auxiliary** verb `did`, the `subject` and `root form of the main verb`:
+3. We form **question** with the **auxiliary** verb `did`, the `subject` and `root form of the verb`:
    - `Did` he **play** football yesterday?
-4. We form **negations** with `did not`/`didn't` + `root form of the main verb`.
+4. We form **negations** with `did not`/`didn't` + `root form of the verb`.
    - He `didn't` **play** footbal yesterday.
 
 <br>
