@@ -1,17 +1,34 @@
 # Usage
 We use the verb `can`:
-- to show **ability** e.g. `He can sing`;
-- to **ask** somebody **to do** something **for us** e.g. `Can you close the window, please?`;
-- to **ask for something** e.g. `Can I have a piece of that cake, please?`;
-- to **ask for permission** to do something e.g. `Can we paly on your computer, please?`;
+- to **show/express ability** in the present:
+  - He `can` sing.
+  - John is 18 years old. He `can` drive a car.
+  - She `can't` wolk because she has broken her leg.
+- to **express ability** in the past we use `could`:
+  - When John was 3 years old he `couldn't` drive a car.
+  - He `could` play basketball when he was young.
+  - He `couldn't` cross the street because there `were` a lot of traffic.
+- **to make a request**:
+  - to **ask** somebody **to do** something **for us**:
+    - `Can` you close the window, please?
+    - `Can` yo help me with my homework?
+  - to **ask for something**:
+    - `Can` I have a piece of that cake, please?
+- to **ask for permission** to do something:
+  - `Can` we paly on your computer, please?
+  - `Can` I go out, please?
+  - `Can` they ride a horse?<br>`Yes`, they `can`. They `can` ride a horse.
 
 <br>
 
-## Examples:
-```text
-Can they ride a horse?
-Yes, they can. They can ride a horse.
-```
+## Can vs. May
+We use `can` and `may` to **ask for permission** to do something.<br>
+`May` is **more formal** then `can` and we use it when we `don't` know the other person very well.
+
+<br>
+
+- `May` I show you something, Sir? (**formal** situation)
+- `Can` I play with my friends after school, Dad? (**informal** situation)
 
 <br>
 
