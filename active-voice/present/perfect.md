@@ -10,7 +10,7 @@ The **present perfect** is used for:
 
 <br>
 
-# Forming and verb agreement
+# Formation and verb agreement
 1. We form the **present perfect** with the `have`/`has` + `past participle`.
    - She `has` clean**ed** the room.
    - I `have` **written** the letter.

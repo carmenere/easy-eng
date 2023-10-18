@@ -10,7 +10,7 @@ The **present simple** is used for:
 
 <br>
 
-# Forming and verb agreement
+# Formation and verb agreement
 We form the **present simple** with the **subject** and **main** verb:
 - in the *affirmative*
   - we don't change the **main** verb when **subject** is **first/second person** or **third person plural**;

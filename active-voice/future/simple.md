@@ -14,7 +14,7 @@
 
 <br>
 
-# Forming and verb agreement
+# Formation and verb agreement
 1. We form the **present perfect** with the `will` + `root form of the verb`.
    - He `will` **visit** his friends.
    - They `will` **go** to the cinema.

@@ -9,7 +9,7 @@ The **past simple** is used for:
 
 <br>
 
-# Forming and verb agreement
+# Formation and verb agreement
 1. We form the **past simple** by adding `-ed` to the **main verb**.
    - He play**ed** football yesterday.
 2. **Irregular** verbs don't form the past simple by adding `-ed`.

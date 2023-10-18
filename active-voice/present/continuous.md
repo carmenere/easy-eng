@@ -7,8 +7,8 @@ We use **present continuous** for:
 
 <br>
 
-# Forming and verb agreement
-We are forming **present continuous** with the **auxiliary** verb `to be` and the **main** verb with the `-ing` suffix.<br>
+# Formation and verb agreement
+We form **present continuous** with the **auxiliary** verb `to be` and the **main** verb with the `-ing` suffix.<br>
 The **auxiliary** verb `to be` always **agrees** in number with the **subject**.
 
 <br>
