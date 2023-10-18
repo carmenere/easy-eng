@@ -2,6 +2,7 @@
 1. We use `shall` to express an **offer**:
    - `Shall` I help you clean the house?
    - Mum, `shall` I help you water the flowers?
+   - `Shall` we visit your cousins tomorrow?
 
 <br>
 

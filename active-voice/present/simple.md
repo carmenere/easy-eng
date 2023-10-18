@@ -22,6 +22,12 @@ We form the **present simple** with the **subject** and **main** verb:
 
 <br>
 
+**don't** /doʊnt/<br>
+**doesn't** /dʌzənt/
+
+
+<br>
+
 # Spelling rules (for **third person singular**)
 1. Verbs take `-s` in the **third person singular**.
 2. Verbs ending in `-ss`, `-sh`, `ch`, `-x` and `-o` take `-es`:

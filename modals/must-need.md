@@ -1,7 +1,17 @@
 # Must/Mustn't/Needn't
-In the **present** simple the modal verb `must` shows that it `is` **necessary** for someone to do something. It expresses **necessity**.<br>
+The modal verbs `must` and `have to` show that it `is` **necessary** for someone to do something. They express **necessity**.<br>
 `Mustn't` shows that something is **prohibited**. It expresses **prohibition**.<br>
 The modal verb `needn't` shows that it `isn't` **necessary** to do something. It expresses a **lack of necessity**.<br>
+
+`Must` can only be used in the **present tense**.<br>
+We use `to have` to form a**ll the other tenses**.<br>
+
+<br>
+
+**needn't** /niːdənt/<br>
+**mustn't** /mʌsənt/
+
+<br>
 
 When we want to know if it is **necessary** to do something we ask question with `must`. The **negative answer** is `needn't`:
 - `Must` I type all these letters?

@@ -20,3 +20,7 @@ John `sent` a letter:
 4. He **heard** something.
    - Who **heard** something?
    - What `did` he hear?
+5. `What` **happened** while I was away? (subject)
+6. `Who` **sent** you this postcard? (subject)
+7. `Who` `did` you **meet** at the theatre? (object)
+8. `What` `do` you **have** to tell me? (object)

@@ -20,6 +20,10 @@ The **past simple** is used for:
 
 <br>
 
+**didn't** /dɪdənt/
+
+<br>
+
 # Spelling rules (for **third person singular**)
 1. Most verbs form **past simple** by adding `-ed`:
    -clean → clean`ed`
