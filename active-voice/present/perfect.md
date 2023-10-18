@@ -1,10 +1,10 @@
 # Usage
-The **present perfect** is used for:
-- for actions which happened at a **indefinite** time in the past, that is, the exact time isn't important:
+The **present perfect** is used:
+- for **actions** which **happened** at a **indefinite** time in the past, that is, the exact time isn't important:
   - They `have` **bought** a new house. (When `did` they **buy** it? We `don't` **know**, the time `isn't` **mentioned**.)
-- for actions which started in the past and are still continuing in the present:
+- for **actions** which **started in the past** and are **still continuing in the present**:
   - I have know Mary for ten years. (We **met** 10 years ago and we **are** **still** know each other.)
-- for actions which have recently finished ant thier results are visible in the present:
+- for **actions** which have **recently finished** ant **thier results are visible in the present**:
   - Tom has just painted the fence. (He has just finished painting. The paint in the fence is still wet)
 - 
 

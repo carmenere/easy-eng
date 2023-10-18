@@ -1,5 +1,5 @@
 # Usage
-The **present perfect continuous** is used for:
+The **present perfect continuous** is used:
 - to put **emphasis** on the **duration** of an action:
   - She `has` `been` paint`ing` this picture **for 2 hours**.
   - **But**:
