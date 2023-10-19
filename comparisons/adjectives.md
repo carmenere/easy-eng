@@ -1,8 +1,8 @@
 # Comparatives
 1. **Adjectives** have got **two** forms: `comparative` and `superlative`.<br>
 2. We us `comparative` + `then` to compare **two** people or things:
-   - John is **taller** than Tom.
-   - Russia is **larger** than China.
+   - John is **taller** `than` Tom.
+   - Russia is **larger** `than` China.
 3. We us `superlative` + `of`/`superlative` + `in` to compare **three or more** people or things. We use `in` when we talk about **places**.
    - John is the **tallest** `of` all.
    - Russia is the **largest** country `in` the world.
@@ -37,7 +37,7 @@
 |Adjective/Adverb|Comparative|Superlative|
 |:--------|:----------|:----------|
 |`good`/`well`|`better`|`best`|
-|`bad`|`worse`|`worst`|
+|`bad`|`worse` /wɜːs/|`worst` /wɜːst/|
 |`a lot of`/`much`/`many`|`more`|`most`|
-|`little`|`less`|`least`|
-|`far`|`further`|`furthest`|
+|`little`|`less`|`least` /liːst/|
+|`far`|`further` /ˈfɜːðə(r)/|`furthest` /ˈfɜːðɪst/|

@@ -1,4 +1,4 @@
-**Type 1 conditionals** express an **imaginary** situation which is **unlikly** to happen in the **present** or **future**.
+**Type 2 conditionals** express an **imaginary** /ɪˈmædʒɪnəri/ situation which is **unlikly** to happen in the **present** or **future**.
 
 <br>
 

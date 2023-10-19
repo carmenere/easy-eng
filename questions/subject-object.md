@@ -1,11 +1,13 @@
-We use `subject questions` when we want to find out who oe what did something. In `subject question` the main verb is in **affirmative** form.<br>
+We use `subject questions` when we want to find out who or what did something. In `subject question` the main verb is in **affirmative** form.<br>
 We use `object questions` when we want to know the object. In `object question` the main verb is in **interrogative** form.<br>
 
 <br>
 
 John `sent` a letter:
-`Subject question`: **Who** `sent` a letter?
-`Object question`: **What** `did` **John** `send`?
+- `Subject question`: **Who** `sent` a letter?
+- `Object question`: **What** `did` **John** `send`?
+
+<br>
 
 # Examples
 1. He `found` something.

@@ -3,7 +3,7 @@
    - **Cross** the road **carefully**.
 2. **Adverbs** usually go **after** verbs:
    - He **walks** `slowly`.
-   - John is `here`.
+   - John **is** `here`.
    - He **wakes up** `early`.
 3. Sometimes **adverbs** go **before** `main verb`, e.g. **adverbs of frequency**:
    - She `often` **visit** her parents.
