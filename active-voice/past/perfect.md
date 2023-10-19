@@ -7,15 +7,15 @@ The **past perfect** is used:
    - They **weren't** at home. They `had` **gone** out.
    - **After** she `had` **packed** her suitcase, she **called** a taxi.
    - She `had` **packed** her suitcase **before** she **called** a taxi.
-   - After he `had` **cleaned** the flat he **watched** TV.
+   - **After** he `had` **cleaned** the flat he **watched** TV.
 
 <br>
 
 # Formation and verb agreement
 1. We form the **past perfect** with the `had` + `past participle`.
    - She `had` **cooked** dinner **before** her husband **came** home.
-2. We form **question** by putting `had` before the `subject`:
+2. We form **question** by putting `had` **before** the `subject`:
    - What she `had` **done** **before** her husband **came** home?
-3. We form **negations** by putting `not` after `had`:
+3. We form **negations** by putting `not` **after** `had`:
    - She `hadn't` **cooked** dinner **before** her husband **came** home.
 

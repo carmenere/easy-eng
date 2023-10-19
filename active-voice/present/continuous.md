@@ -1,8 +1,8 @@
 # Usage
 We use **present continuous** for:
-- actions happening now, at the moment of speaking.
+- actions happening **now**, at the moment of speaking.
   - They **are** walk`ing` in the park now.
-- temporary actions around now but not at the momemt of speaking.
+- temporary actions **around now** but **not** at the momemt of speaking.
   - She **is** work`ing` hard these days. Right now she **isn't** work`ing`, she **is** yawn`ing`. /jɔːn/
 
 <br>
@@ -45,11 +45,11 @@ The **auxiliary** verb `to be` always **agrees** in number with the **subject**.
 2. **Are** the people swimm`ing`?<br>No, they **aren't**.
 3. What **are** they do`ing`? They're walk`ing` along the beach.
 4. What **are** they do`ing`?<br>They're sunbath`ing`.
-5. I'm **having** a shower.
-6. Can you answer the phone?<br>No, I'm sorry. I'm **having** a bath.
-7. I'm **having** breakfast/lunch/dinner.
+5. I'm hav`ing` a shower.
+6. Can you answer the phone?<br>No, I'm sorry. I'm hav`ing` a bath.
+7. I'm hav`ing` breakfast/lunch/dinner.
 8. Can you tidy your room?<br>No, I'm writ`ing` the letter.
-9. Can you come to the phone?<br>No, I'm **having** a lesson.
+9. Can you come to the phone?<br>No, I'm hav`ing` a lesson.
 10. Can I take this pencil?<br>No, I'm sorry. I'm us`ing` it.
 11. **Is** the train com`ing`?
 12. Why **is** the dog bark`ing`?

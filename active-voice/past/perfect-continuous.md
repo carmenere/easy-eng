@@ -9,9 +9,9 @@ The **past perfect continuous** is used:
 
 # Formation and verb agreement
 1. We form the **past perfect continuous** with the `had` + `been` + `ing form`.
-   - He `has` `been` read`ing` this newspaper **for an hour**.
-2. We form **question** by putting `had` before the `subject`:
-   - `Had` Peter `been` driv`ing` **for** two hours **before** he had the accident?
-3. We form **negations** by putting `not` between `had` and `been`:
-   - He `hadn't` `been` driv`ing` **for** two hours **before** he `had` the accident.
+   - He `had` `been` read`ing` this newspaper **for an hour**.
+2. We form **question** by putting `had` **before** the `subject`:
+   - `Had` Peter `been` driv`ing` **for** two hours **before** he **had** the accident?
+3. We form **negations** by putting `not` **after** `had`:
+   - He `hadn't` `been` driv`ing` **for** two hours **before** he **had** the accident.
 

@@ -1,11 +1,11 @@
 # Usage
-The **past simple** is used for:
+The **past simple** is used:
 - for actions which happened at a **definite** time in the past, that is, **we know when it happened**:
   - They `got married` 15 years **ago**. (When did they married? 15 years ago)
 - for **repeated actions** which happened in the past **but don't happend any more**. In this case we can use adverbs of frequency:
-  - My father oftem `took` me to the playground when **I** `was` little.
-- for **actions** which **happened one after the other** in the past:
-  - First, they had lunch. Then, they met thier friends.
+  - My father often `took` me to the playground when **I** `was` little.
+- for **actions** which **happened immediately one after the other** in the past:
+  - First, they `had` lunch. Then, they `met` thier friends.
 
 <br>
 
@@ -13,9 +13,9 @@ The **past simple** is used for:
 1. We form the **past simple** by adding `-ed` to the **main verb**.
    - He play**ed** football yesterday.
 2. **Irregular** verbs don't form the past simple by adding `-ed`.
-3. We form **question** with the **auxiliary** verb `did`, the `subject` and `root form of the verb`:
+3. We form **question** with the **auxiliary** verb `did`, the `subject` and `bare infinitive`:
    - `Did` he **play** football yesterday?
-4. We form **negations** with `did not`/`didn't` + `root form of the verb`.
+4. We form **negations** with `did not`/`didn't` + `bare infinitive`.
    - He `didn't` **play** footbal yesterday.
 
 <br>
@@ -30,11 +30,11 @@ The **past simple** is used for:
 2. Verbs ending in `-e` take only `-d`.
    - lik**e** → lik**e**`d`
 3. Verbs ending in `consonant` + `y` drop `y` and take `-ied`:
-   - stud**y** → stud`ied`
+   - stu**dy** → stu**d**`ied`
 4. Verbs ending in `vowel` + `y` take `-ed`:
    - pla**y** → pla**y**`ed`
    - sta**y** → sta**y**`ed`
-5. Verbs ending in one stressed vowel between 2 consonant double the last consonant and take `-ed`:
+5. Verbs ending in one stressed vowel between 2 consonant **double** the **last consonant** and take `-ed`:
    - sto**p** → sto**pp**`ed`
    - **But**:
      - visi**t** → visi**t**`ed`
@@ -60,8 +60,6 @@ The **suffix** `-ed` is pronounced:
   - loved;
   - robbed;
   - studied;
-  - reads;
-  - studies;
 
 <br>
 
