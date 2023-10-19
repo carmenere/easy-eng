@@ -10,15 +10,20 @@ The **present simple** is used for:
 
 <br>
 
-# Forming and verb agreement
+# Formation and verb agreement
 We form the **present simple** with the **subject** and **main** verb:
 - in the *affirmative*
-  - we don't change the **main** verb when **subject** is **first/second person** or **third person plural**;
   - we **add** an `-s` to the **main** verb when **subject** is **third person singular**;
 - in the *interrogative* and *negative* we use **auxiliary verbs**:
   - `do`/`don't` with the **first/second person** or **third person plural**;
   - `does`/`doesn't` with the **third person singular**:
     - we **don't** **add** an `-s` to the **main** verb when it appears with `does`/`doesn't`.<br>
+
+<br>
+
+**don't** /doʊnt/<br>
+**doesn't** /dʌzənt/
+
 
 <br>
 
