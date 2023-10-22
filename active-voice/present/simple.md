@@ -112,3 +112,136 @@ The **suffix** of **third person singular** is pronounced:
 4. `Does` he **work** in the garden every day?<br>Yes, he `does`.
 5. `How often` **do** you **help** with the housework?<br>I `seldom` **help** with the housework.
 6. `Do` you **take** the bus to work `every day`?<br>No, I `usually` **walk** to work.
+
+<br>
+
+# Exercises
+### Write third person singular of the verbs, then read them aloud
+- accept
+- add
+- arrange
+- arrest /əˈrest/
+- arrive
+- begin
+- brush (teeth)
+- buy
+- carry
+- catch
+- change
+- chop
+- clean
+- close
+- come
+- cook
+- copy
+- cough
+- count
+- crash
+- cry
+- dance
+- decide
+- die
+- dive
+- do
+- dream
+- drink
+- drive
+- drop
+- dry
+- eat
+- end
+- enjoy
+- finish
+- fix
+- fly
+- get
+- go
+- happen
+- hate
+- help
+- jump
+- kick
+- kiss
+- know
+- laugh
+- lie
+- like
+- listen
+- live
+- load
+- look
+- look after
+- lose
+- match
+- mend
+- miss
+- mix
+- move
+- need
+- open
+- pack
+- paint
+- pass
+- persuade /pəˈsweɪd/
+- plan
+- play
+- post
+- pray
+- prepare
+- push
+- put
+- put
+- quarrel
+- rain
+- read
+- refer
+- repair
+- ride
+- ring
+- rise
+- rob
+- rub
+- run
+- save
+- say
+- see
+- serve
+- set
+- shine
+- shoot
+- shop
+- shout
+- show
+- sing
+- sit
+- sleep
+- slip
+- smoke
+- speak
+- stand
+- start
+- stay
+- stop
+- study
+- succeed /səkˈsiːd/
+- sunbath
+- survive
+- swim
+- talk on the phone
+- teach
+- tidy
+- travel
+- treat animals
+- try
+- type
+- visit
+- wait
+- walk
+- want
+- wash
+- watch
+- wear
+- wish
+- work
+- write
+- yawn

@@ -16,20 +16,26 @@
    - fast → fast`est`
 3. **Adjectives** of **three** or **more** syllables form the **comparative** by adding word `more` **before** adjective:
    - beautiful → `more` beautiful
+   - intelligent → `more` intelligent
 3. **Adjectives** of **three** or **more** syllables form the **superlative** by adding word `most` **before** adjective:
    - beautiful → `most` beautiful
+   - intelligent → `most` intelligent
 
 <br>
 
 ## Spelling rules
 1. **One-syllable** adjectives ending in `e` take `r` in the **comparative** and `st` in the **superlative**:
-   - larg**e** → large`r` → large`st`
+   - larg**e** → larg**e**`r` → larg**e**`st`
+   - simpl**e** → siml**e**`r` → simpl**e**`st`
 2. **Two-syllable** adjectives ending in `y` turn the `y` into `i` and take `er` in the **comparative** and `est` in the **superlative**:
    - happ**y** → happ**i**`er` → happ**i**`est`
+   - eas**y** → eas**i**`er` → eas**i**`est`
 3. **Adjectives** ending in a `stressed vowel` **between** `two consonants` **double** the **final** `consonant` and take `er` in the **comparative** and `est` in the **superlative**:
    - bi**g** → bi**gg**`er` → bi**gg**`est`
+   - fa**t** → fat**t**`er` → fat**t**`est`
    - But:
      - old → old`er` → old`est`
+     - cold → cold`er` → cold`est`
 
 <br>
 
