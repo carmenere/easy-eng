@@ -53,3 +53,5 @@ Examples:
 <br>
 
 # More examples
+- It'`s` my turn.
+- It'`s` very warm today.

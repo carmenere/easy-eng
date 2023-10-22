@@ -53,6 +53,8 @@ Some nouns ending in `o` take only `s` in the plural.
 - pian**o** → piano`s`
 - rhin**o** → rhino`s` (/ˈraɪnəʊ/)
 - hipp**o** → hippo`s` (/ˈhɪpəʊ/, hippopotamus /ˌhɪpəˈpɒtəməs/)
+- kil**o** → kilo`s`
+- studi**o** → studio`s` (/ˈstjuːdiəʊ/)
 
 <br>
 
@@ -150,4 +152,93 @@ The suffix of the plural form is pronounced `/z/` when the noun ends in any othe
 
 <br>
 
-# More examples
+# Exercises
+### First say the words in the plural, then write them
+- apple
+- armchair
+- baby
+- bag
+- ball
+- basket
+- bicycle
+- bird
+- book
+- box
+- boy
+- bridge
+- brush
+- bus
+- bush
+- cage
+- calf
+- cat
+- chair
+- cherry
+- child
+- church
+- city
+- cliff
+- clock
+- deer
+- desk
+- dish
+- dolphin
+- door
+- dress
+- duck
+- ferry
+- flower
+- foot
+- fox
+- giraffe
+- glass
+- goose
+- hat
+- hippo
+- house
+- key
+- knife
+- lady
+- leaf
+- lemon
+- man
+- melon
+- mirage
+- mouse
+- myth
+- onion
+- orange
+- ostrich
+- ox
+- parrot
+- peach
+- pear
+- pen
+- photo
+- piano
+- potato
+- radio
+- raspberry
+- rhino
+- roof
+- room
+- rose
+- rose
+- sandwich
+- sheep
+- shop
+- skirt
+- song
+- swan
+- tomato
+- tooth
+- torch
+- toy
+- turkey
+- video
+- watch
+- wife
+- wolf
+- woman
+- life
+- party

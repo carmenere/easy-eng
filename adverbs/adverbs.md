@@ -14,6 +14,7 @@
 1. We usually form an **adverb** by adding `-ly` to the **adjective**:
    - slow → slow`ly`
    - quick → quick`ly`
+   - polit**e** → polit**e**`ly`
 2. **Adjectives** ending in `-le` drop the `e` and take `y`:
    - simp**le** → simp**l**`y`
 3. **Adjectives** ending in `consonant` + `y` drop the `y` and take `ily`:
@@ -50,3 +51,79 @@ The verbs `look`, `smell`, `sound`, `feel`, `taste` take an **adjective**, **not
 - This cake `tastes` **delicious**.
 - **But**:
   - She is `smiling` **happily**.
+
+<br>
+
+# Exercises
+### First, write the adverbs, then write comparative and superlative froms of the followong adjectives and derived adverbs
+- angry
+- awful
+- bad
+- beautiful
+- big
+- careful
+- careless
+- cheap
+- clever
+- close
+- cold
+- comfortable
+- cosy
+- crowded
+- dangerous
+- delicious /dɪˈlɪʃəs/
+- difficult
+- early
+- easy
+- excellent
+- expensive
+- far
+- fast
+- fat
+- fresh
+- funny
+- generous
+- gentle
+- good
+- happy
+- hard
+- healthy
+- heavy
+- horrible
+- hot
+- important
+- impossible
+- intelligent
+- interesting
+- large
+- late
+- lazy
+- little
+- long
+- loud
+- narrow
+- nice
+- noisy
+- old
+- polite
+- popular
+- pretty
+- quick
+- quiet /ˈkwaɪət/
+- responsible
+- sad
+- safe
+- short
+- simple
+- slow
+- small
+- soft
+- strong
+- successful
+- tall
+- tasty
+- terrible
+- weak
+- wide
+- wonderful
+- young

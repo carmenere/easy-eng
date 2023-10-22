@@ -62,23 +62,33 @@ We can use countable and uncountable nouns after phrases of quantity such as:
 <br>
 
 ## A pair of
-- scissors /ˈsɪzəz/
+Objects which **consist of two parts** are used with **plural verb**:
+- earrings
 - glasses /ˈɡlɑːsɪz/
-- trousers /ˈtraʊzəz/
+- gloves
 - jeans /dʒiːnz/
-- shorts /ʃɔːts/
-- tights /taɪts/
 - pyjamas /pəˈdʒɑːməz/
+- scissors /ˈsɪzəz/
+- shoes
+- shorts /ʃɔːts/
+- socks
+- tights /taɪts/
+- trousers /ˈtraʊzəz/
 
-You can say:
+<br>
+
+### Examples
+- Where **are** the **scissors**?<br>I need **them**.
+- Do you wear **glasses**?
+
+<br>
+
+We can use a **singular verb** and the phrase `a pair of` before objects which **consist of two parts**:
 - `a pair of` scissors;
 - `a pair of` jeans;
 
 <br>
 
 ### Examples
-- Do you wear **glasses**?
-- Where **are** the **scissors**?<br>I need **them**.
 - I need a new `pair of` **jeans**.
-
-# More examples
+- There **is** `a pair of` **shorts**.
