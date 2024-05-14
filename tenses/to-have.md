@@ -40,7 +40,7 @@ A bird has got a beak, a tail and wings.
 ## Affirmative (/əˈfɜːrmətɪv/)
 - I `have` (got) → `I've` (got) /aɪv/ 
 - You `have` (got) → `You've` (got) /juːv/ 
-- He `has` (got) → `He've` (got) /hiz/
+- He `has` (got) → `He's` (got) /hiz/
 - She `has` (got) → `She's` (got) /ʃiz/
 - It `has` (got) → `It's` (got) /ɪts/
 - We `have` (got) → `We've` (got) /wɪv/ 
@@ -86,3 +86,18 @@ Examples:
 <br>
 
 # More examples
+
+<br>
+
+# Past
+1. The **past simple** of verb `have` is `had`. It is the same **in** all persons.
+2. We form **questions** with the **auxiliary** verb `did`, the `subject` and the verb `have`.
+   - `Did` you **have** many toys when **you** `were` child?
+3. We form **negations** with `did not`/`didn't` + `have`.
+   - I `didn't` **have** many toys when **I** `was` child.
+
+<br>
+
+# More examples
+1. Grandpa, `did` you **have** TV when **you** `were` five?<br>No, I `didn't`. People `didn't` **have** TV then. The **had** radios.
+2. 

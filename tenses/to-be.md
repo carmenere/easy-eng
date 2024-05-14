@@ -1,5 +1,6 @@
-# Conjugation and contractions
-## Affirmative (/əˈfɜːrmətɪv/)
+# Present
+## Conjugation and contractions
+### Affirmative (/əˈfɜːrmətɪv/)
 - I `am` → `I'm` /aɪm/
 - You `are` → `You're` /jʊəʳ/
 - He `is` → `He's` /hiz/
@@ -11,7 +12,7 @@
 
 <br>
 
-## Negative (/ˈneɡətɪv/)
+### Negative (/ˈneɡətɪv/)
 - I `am` **not** → ... → `I‘m` **not**
 - You `are` **not** → You `aren't` /ɑ:rnt/ → `You're` **not**
 - He `is` **not** → He `isn't` /'ɪzənt/ → `He's` **not**
@@ -23,7 +24,7 @@
 
 <br>
 
-## Interrogative (/ˌɪntəˈrɑːɡətɪv/)
+### Interrogative (/ˌɪntəˈrɑːɡətɪv/)
 - `Am` I?
 - `Are` you?
 - `Is` he?
@@ -52,6 +53,13 @@ Examples:
 
 <br>
 
-# More examples
-- It'`s` my turn.
-- It'`s` very warm today.
+# Past
+1. The **past simple** of verb `to be` is
+- `was` for **I**, **he**, **she**, **it**;
+- `were` for **we**, **you**, **they**;
+2. We form **question** by putting `was`/`were` before the subject pronoun.
+   - **She** `was` *ill* yesterday → `Was` she *ill* yesterday?
+   - **They** `were` fine yesterday.
+3. We form **negations** by putting not after `was`/`were`.
+   - She `was` **not** *ill* yesterday → She `wasn't` *ill* yesterday.
+   - **They** `were` **not** fine yesterday. → **They** `weren't` **not** fine yesterday.
