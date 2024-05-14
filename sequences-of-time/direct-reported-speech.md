@@ -17,7 +17,7 @@ If **introductory verbs** is in the **past simple** we use **sequences of time**
 |**Present**|'They `are` **playng** table tennis', he said.|→ **Past**|He **said** they `were` **playing** table tennis.|
 |**Present**|'I'`ve` **ordered** a new fridge', he said.|→ **Past**|He **said** she `had` **ordered** a new fridge.|
 |**Past**|'John **left** the country', they said.|→ **Past prefect**|They **said** John `had` **left** the country.|
-|**Future**|'I'`ll` **send** you a letter', he said|→ **Conditional** (would)|He **said** he `would` **send** me a letter.|
+|**Future**|'I'`ll` **send** you a letter', he said|→ **Future in the Past** (would)|He **said** he `would` **send** me a letter.|
 
 <br>
 
@@ -26,6 +26,5 @@ If **introductory verbs** is in the **past simple** we use **sequences of time**
    - It means he **lived** in London **at** the moment of speaking.
 2. He **said**, he `had` **lived** in London.
    - It means he **lived** in London **before** the moment of speaking, but he **didn't live** in London **at** the moment of speaking.
-
 3. He **said**, he `would` **live** in London.
    - It means he is going to move to London in the future, but he **didn't live** in London **at** the moment of speaking.
