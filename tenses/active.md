@@ -12,7 +12,12 @@
   - [Formulas](#formulas)
   - [Examples](#examples)
 - [Comparisons](#comparisons)
-  - [Past vs. Perfect](#past-vs-perfect)
+  - [Past Simple and Present Perfect equality](#past-simple-and-present-perfect-equality)
+  - [Past `Simple` or Present `Perfect`](#past-simple-or-present-perfect)
+    - [Rule 1](#rule-1)
+    - [Rule 2](#rule-2)
+    - [Rule 3](#rule-3)
+    - [Rule 4](#rule-4)
   - [By vs. At](#by-vs-at)
   - [How long ago/When](#how-long-agowhen)
 - [Past](#past)
@@ -147,17 +152,50 @@ In other words,
 ## Examples
 ||Simple|Continuous|Perfect|Perfect Continuous|
 |:-|:-----|:---------|:------|:-----------------|
-|**Past**|She **wrote** a letter.|She **was writing** a letter.|She **had written** a letter.|She **had been writing** a letter.|
-|**Present**|She **writes** a letter.|She **is writing** a letter.|She **has written** a letter.|She **has been writing** a letter.|
-|**Future**|She **will write** a letter.|She **will be writing** a letter.|She **will have written** a letter.|She **will have been writing** a letter.|
-|**Future in the Past**|Nick **thought** he **would come** back **by** the dinner.|Nick **thought** he **would be walking** all day long.|Nick **said** he **would have done** all work **by** nine o'clock.|Nick **said** that **by** the next month he **would have been living** in this house **for** two years.|
+|**Past**|She **wrote** a letter *yesterday*.|She **was writing** a letter **at** *5 o'clock yesterday*.|She **had written** a letter **by** *5 o'clock yesterday*.|She **had been writing** a letter **for** *2 hours* **when** I c**a**me.|
+|**Present**|She **writes** a letter *every day*.|She **is writing** a letter *now*.|She **has** *already* **written** a letter.|She **has been writing** a letter **since** *morning*.|
+|**Future**|She **will write** a letter *tomorrow*.|She **will be writing** a letter **at** *5 o'clock tomorrow*.|She **will have written** a letter **by** *5 o'clock tomorrow*.|She **will have been writing** a letter **for** *2 hours* **when** I c**o**me.|
+|**Future in the Past**|She said that she **would write** a letter *the next day*.|She said that she **would be writing** a letter **at** *5 o'clock the next day*.|She said that she **would have written** a letter **by** *5 o'clock the next day*.|She said that she **would have been writing** a letter **for** *2 hours* **when** I c**a**me.|
 
 <br>
 
 # Comparisons
-## Past vs. Perfect
+## Past Simple and Present Perfect equality
 - I **saw** Tim a week **ago**. `==` I **haven’t seen** Tim **for** a week.
 - I **became** a teacher four years **ago**. `==` I **have been** a teacher **for** 4 years.
+
+<br>
+
+## Past `Simple` or Present `Perfect`
+### Rule 1
+- The **Present** `Perfect` is used when the **time period** has **NOT finished**.
+  - I **have** seen three movies **this week**. (This week has not finished yet.)
+- The **Past** `Simple` is used when the **time period HAS finished**.
+  - I **saw** three movies **last week**. (Last week has finished.)
+
+<br>
+
+### Rule 2
+- The **Present** `Perfect` is often used when giving recent news.
+  - Martin **has** crashed his car **again**. (This is new information.)
+- The **Past** `Simple` is used when giving older information.
+  - Martin **crashed** his car **last year**. (This is old information.)
+
+<br>
+
+### Rule 3
+- The **Present** `Perfect` is used when the **exact time** is **not known** or **not important**.
+  - I **have** seen that movie **already**. (We don't know when.)
+- The **Past** `Simple` is used when the **exact time** is known.
+  - I **saw** that movie **on Thursday**. (We know exactly when.)
+
+<br>
+
+### Rule 4
+- The **Present** `Perfect` is used with for and since when the actions have not finished yet.
+  - I **have** lived in Victoria **for five years**. (I still live in Victoria.)
+- The **Past** `Simple` is used with for when the actions have already finished.
+  - I **lived** in Victoria **for five years**. (I don't live in Victoria now.)
 
 <br>
 
