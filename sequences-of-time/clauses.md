@@ -91,6 +91,7 @@ A **time** clause is a **dependent** clause that begins with a **time word**:
 <br>
 
 ### `Future` time clause
+- `If` the weather **is fine** tomorrow, we **will go** to the country.
 - `When` she **comes** to scholl she **will take off** her coat.
 - The meeting **will** begin `as soon as` everyone **arrives**.     (**Present** `Simple`)
 - The meeting **will** begin `as soon as` everyone **has arrived**. (**Present** `Perfect`)
