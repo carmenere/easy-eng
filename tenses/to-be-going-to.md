@@ -1,5 +1,11 @@
+# Table of contents
+- [Table of contents](#table-of-contents)
+- [Be going to](#be-going-to)
+
+<br>
+
 # Be going to
-We use `to be` + `going to` + `bare infinitive`:
+We use `to be` + `going to` + `V1`:
 1. For plans and intentions for near future:
   - She `is` `going to` **eat** out tonight.
   - I'`m` `going to` **buy** a ball in the evening.

@@ -1,5 +1,22 @@
+# Table of contents
+- [Table of contents](#table-of-contents)
+- [Contractions](#contractions)
+  - [Rules](#rules)
+- [To be](#to-be)
+- [Do/Does/Did](#dodoesdid)
+- [Have/Has/Had](#havehashad)
+- [Will/Shall](#willshall)
+- [Modals](#modals)
+- [Interrogative words](#interrogative-words)
+- [Personal pronoun + Had](#personal-pronoun--had)
+- [Personal pronoun + Have (got)](#personal-pronoun--have-got)
+- [Personal pronoun + To be](#personal-pronoun--to-be)
+- [dunno/gonna/wanna/gotta](#dunnogonnawannagotta)
+
+<br>
+
 # Contractions
-**contraction** UK,US /kənˈtræk.ʃən/
+**contractionz** UK,US /kənˈtræk.ʃənz/
 
 <br>
 

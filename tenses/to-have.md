@@ -1,4 +1,20 @@
-# Usage
+# Table of contents
+- [Table of contents](#table-of-contents)
+- [Present](#present)
+  - [Usage](#usage)
+  - [Conjugation and contractions](#conjugation-and-contractions)
+    - [Affirmative (/əˈfɜːrmətɪv/)](#affirmative-əˈfɜːrmətɪv)
+    - [Negative (/ˈneɡətɪv/)](#negative-ˈneɡətɪv)
+    - [Interrogative (/ˌɪntəˈrɑːɡətɪv/)](#interrogative-ˌɪntəˈrɑːɡətɪv)
+  - [Short answers (/ˈɑːnsə(r)z/)](#short-answers-ˈɑːnsərz)
+- [Past](#past)
+  - [Conjugation and contractions](#conjugation-and-contractions-1)
+- [Examples](#examples)
+
+<br>
+
+# Present
+## Usage
 We use the verb `have (got)`:
 - to show that something belongs to somebody e.g. `He has got a car`.
 - to describe people, animals or things e.g. `She's got green eyes`.
@@ -12,32 +28,8 @@ We use the verb `have (got)`:
 
 <br>
 
-## Examples:
-```text
-What `have` they got?
-They'`ve` got roller blades.
-/ˈrəʊlər/
-```
-
-<br>
-
-```text
-Has she got long hair?
-No, she hasn't.
-She's got short hair.
-```
-
-<br>
-
-```text
-A bird has got a beak, a tail and wings.
-/biːk/
-```
-
-<br>
-
-# Conjugation and contractions
-## Affirmative (/əˈfɜːrmətɪv/)
+## Conjugation and contractions
+### Affirmative (/əˈfɜːrmətɪv/)
 - I `have` (got) → `I've` (got) /aɪv/ 
 - You `have` (got) → `You've` (got) /juːv/ 
 - He `has` (got) → `He's` (got) /hiz/
@@ -49,7 +41,7 @@ A bird has got a beak, a tail and wings.
 
 <br>
 
-## Negative (/ˈneɡətɪv/)
+### Negative (/ˈneɡətɪv/)
 - I `have` **not** (got) → I `haven't`
 - You `have` **not** (got) → You `haven't`
 - He `has` **not** (got) → He `hasn't`
@@ -61,7 +53,7 @@ A bird has got a beak, a tail and wings.
 
 <br>
 
-## Interrogative (/ˌɪntəˈrɑːɡətɪv/)
+### Interrogative (/ˌɪntəˈrɑːɡətɪv/)
 - `Have` I (got)?
 - `Have` you (got)?
 - `Has` he (got)?
@@ -79,25 +71,20 @@ In short answers we don't repeat the whole question. We only use `Yes` or `No`, 
 
 <br>
 
-Examples:
+# Past
+## Conjugation and contractions
+1. The **past simple** of verb `have` is `had`. It is the same **in** all persons.
+2. We form **questions** with the **auxiliary** verb `did`, the `subject` and the verb `have`.   
+3. We form **negations** with `did not`/`didn't` + `have`.
+
+<br>
+
+# Examples
 - `Have` you `got` a car? `Yes`, I `have`. `No`, I `haven't`.
 - `Have` they `got` a bicycle? `Yes`, they `have`. `No`, they `haven't`.
-
-<br>
-
-# More examples
-
-<br>
-
-# Past
-1. The **past simple** of verb `have` is `had`. It is the same **in** all persons.
-2. We form **questions** with the **auxiliary** verb `did`, the `subject` and the verb `have`.
-   - `Did` you **have** many toys when **you** `were` child?
-3. We form **negations** with `did not`/`didn't` + `have`.
-   - I `didn't` **have** many toys when **I** `was` child.
-
-<br>
-
-# More examples
-1. Grandpa, `did` you **have** TV when **you** `were` five?<br>No, I `didn't`. People `didn't` **have** TV then. The **had** radios.
-2. 
+- Grandpa, `did` you **have** TV when **you** `were` five? - No, I `didn't`. People `didn't` **have** TV then. The **had** radios.
+- I `didn't` **have** many toys when **I** `was` child.
+- `Did` you **have** many toys when **you** `were` child?
+- A bird has got a beak, a tail and wings. /biːk/
+- What `have` they got? - They'`ve` got roller blades. /ˈrəʊlər/
+- Has she got long hair? - No, she hasn't.She's got short hair.
