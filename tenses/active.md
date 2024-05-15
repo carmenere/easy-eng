@@ -6,6 +6,7 @@
   - [Subject-verb agreement](#subject-verb-agreement)
     - [To have](#to-have)
     - [To be](#to-be)
+    - [Was/Were](#waswere)
     - [To do](#to-do)
   - [Adverbs of frequency](#adverbs-of-frequency)
 - [Tables](#tables)
@@ -92,22 +93,29 @@ In other words,
 <br>
 
 ### To have
-- In all clause types (**affirmative**, **interrogative** and **negative**) we use **auxiliary verbs**:
+- In **all** clause types (**affirmative**, **interrogative** and **negative**) we use:
   - `have`/`haven't` with the **first/second person** or **third person plural**;
   - `has`/`hasn't` with the **third person singular**;
 
 <br>
 
 ### To be
-- In all clause types (the **affirmative**, **interrogative** and **negative**) we use **auxiliary verbs**:
+- In **all** clause types (the **affirmative**, **interrogative** and **negative**) we use:
   - `am`/`am not` with the **first person**;
   - `are`/`are not` with the **second person** or **third person plural**;
   - `is`/`isn't` with the **third person singular**;
 
 <br>
 
+### Was/Were
+- In all clause types (the **affirmative**, **interrogative** and **negative**) we use:
+  - `was`/`was not` with the **singular**;
+  - `were`/`were not` with the **plural**;
+
+<br>
+
 ### To do
-- In the **interrogative** and **negative** we use **auxiliary verbs**:
+- In the **interrogative** and **negative** we use:
   - `do`/`don't` with the **first/second person** or **third person plural**;
   - `does`/`doesn't` with the **third person singular**;
 
