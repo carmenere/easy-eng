@@ -86,13 +86,21 @@ A **time** clause is a **dependent** clause that begins with a **time word**:
 
 ### `Present` time clause
 - `When` she **comes** to scholl she **takes off** her coat.
-- The meeting **will** begin `as soon as` everyone **arrives**. 
+- Please **turn off** the light `when` you **leave** the room.
+- **Don't forget** to pay for your dinner `before` you **leave** the canteen.
 
 <br>
 
 ### `Future` time clause
 - `If` the weather **is fine** tomorrow, we **will go** to the country.
 - `When` she **comes** to scholl she **will take off** her coat.
+- `When` you **cross** the park, you **will** see the hospital.
+- She **will** wait for him `till` he **comes** back.
+- I **will** call you `as soon as` I **get** home from the hospital.
+- I **will** go to university `after` I **leave** school.
+- I **will** stay at home `till` she **comes**. Then we **will** go to the theatre `if` she **brings** tickets.
+- Where **will** you go `when` you **come** to London?
+- `If` I see I **will** tell him about their letter.
 - The meeting **will** begin `as soon as` everyone **arrives**.     (**Present** `Simple`)
 - The meeting **will** begin `as soon as` everyone **has arrived**. (**Present** `Perfect`)
 - We **will** go out for dinner `after` the meeting **is** over.
