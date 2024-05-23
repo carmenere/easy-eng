@@ -122,7 +122,7 @@ The **Present** `Perfect continuous` is used:
 - for an **activity** that **is still happening** or **has recently stopped**:
   - Why **are** you **out of breath**? `Have` you `been` runn`ing`?
   - He `has` `been` teach`ing` for 6 years.
-- for repeated actions:
+- for **repeated actions**:
   - She is a good tennis player. She`'s` `been` play`ing` **since** she was eight.
   - Every morning they meet in the same cafe. They`'ve` `been` go`ing` there **for** years.
 
