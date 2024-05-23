@@ -2,26 +2,24 @@
 - [Table of contents](#table-of-contents)
 - [Usage](#usage)
   - [Past `Simple`](#past-simple)
-  - [Past `Continuous`](#past-continuous)
   - [Past `Perfect`](#past-perfect)
+  - [Past `Continuous`](#past-continuous)
   - [Past `Perfect continuous`](#past-perfect-continuous)
   - [Present `Simple`](#present-simple)
-  - [Present `Continuous`](#present-continuous)
   - [Present `Perfect`](#present-perfect)
+  - [Present `Continuous`](#present-continuous)
+  - [Present `Perfect continuous`](#present-perfect-continuous)
+  - [Future `Simple`](#future-simple)
+  - [Future `Perfect continuous`](#future-perfect-continuous)
 - [Time expressions](#time-expressions)
   - [Past `Simple`](#past-simple-1)
   - [Past `Continuous`](#past-continuous-1)
   - [Present `Simple`](#present-simple-1)
   - [Present `Continuous`](#present-continuous-1)
-  - [Present `Simple`](#present-simple-2)
-  - [Future `Simple`](#future-simple)
+  - [Present `Perfect`](#present-perfect-1)
+  - [Future `Simple`](#future-simple-1)
 - [Comparisons](#comparisons)
   - [Past Simple and Present Perfect equality](#past-simple-and-present-perfect-equality)
-  - [Past `Simple` or Present `Perfect`?](#past-simple-or-present-perfect)
-    - [Rule 1](#rule-1)
-    - [Rule 2](#rule-2)
-    - [Rule 3](#rule-3)
-    - [Rule 4](#rule-4)
   - [By vs. At](#by-vs-at)
   - [How long ago/When](#how-long-agowhen)
 
@@ -39,8 +37,21 @@ The **Past** `Simple` is used:
 
 <br>
 
+## Past `Perfect`
+The **Past** `Perfect` is used:
+- for an **action** which **happened** in the past **before** another **action**:
+   - They `had` **done** their homework **before** they **went** out to play yesterday afternoon.
+- for an **action** which **happened before** a **stated time** in the past: 
+   - She `had` **watered** all the flowers **by** five o'clock in the afternoon.
+   - They **weren't** at home. They `had` **gone** out.
+   - **After** she `had` **packed** her suitcase, she **called** a taxi.
+   - She `had` **packed** her suitcase **before** she **called** a taxi.
+   - **After** he `had` **cleaned** the flat he **watched** TV.
+
+<br>
+
 ## Past `Continuous`
-The **Past** `Continuous` is used:
+The Past `Continuous` is used:
   - for an **action** which **was in progress** `at a stated time` in the past (we **don't know** **when** the action **started** or **finished**):
      - **At** 3 o'clock yesterday afternoon Mike and his son `were` wash`ing` the dog.
      - The plane `was` fly`ing` to Tahiti **at** nine o'clock.
@@ -50,19 +61,6 @@ The **Past** `Continuous` is used:
   - for **two** or **more** **actions** which **were happening at the same time** in the past (**simultaneous past actions** /ˌsɪmlˈteɪniəs/):
      - The people `were` watch`ing` **while** the cowboy `was` rid`ing` the bull.
      - He `was` listen`ing` carefully **while** they `were` explain`ing` the paln to him.
-
-<br>
-
-## Past `Perfect`
-The **Past** `Perfect` is used:
-- for an **action** which **happened** in the past **before** another **past action**:
-   - They `had` **done** their homework **before** they **went** out to play yesterday afternoon.
-- for an **action** which **happened before** a **stated time** in the past: 
-   - She `had` **watered** all the flowers **by** five o'clock in the afternoon.
-   - They **weren't** at home. They `had` **gone** out.
-   - **After** she `had` **packed** her suitcase, she **called** a taxi.
-   - She `had` **packed** her suitcase **before** she **called** a taxi.
-   - **After** he `had` **cleaned** the flat he **watched** TV.
 
 <br>
 
@@ -87,6 +85,22 @@ The **Present** `Simple` is used for:
 
 <br>
 
+## Present `Perfect`
+The **Present** `Perfect` is used:
+- for **actions** which **happened** in *the past* and the **exact time isn't important** or **known**:
+  - They `have` **bought** a new house. (When `did` they **buy** it? We `don't` **know**, the time `isn't` **mentioned**.)
+  - I `have` **already** `seen` that movie. (We don't know when.)
+- for **actions** which **happened** in *the past* and which **have result now**, i.e. there is **connection with now**:
+  - Tom `has` `just` **painted** the fence. (He has just finished painting. The paint in the fence is still wet)
+- for **period of time** that **continues until now** (`today`, `this morning` (if it's still morning now), `since 2010`, `recently` ...):
+  - I `have` **know** Mary **for** ten years. (We **met** 10 years ago and we **are still** know each other.)
+  - `Have` you `seen` Ben **recently**?
+  - I `have` `seen` three movies **this week**. (This week has not finished yet.)
+- to say how many times someone did something
+  - He `has` **never** `driven` a car **before**. *OR* He `hasn't` `driven` a car **before**.
+
+<br>
+
 ## Present `Continuous`
 We use **Present** `Continuous` for:
 - actions happening **now**, at the moment of speaking.
@@ -99,14 +113,45 @@ We use **Present** `Continuous` for:
 
 <br>
 
-## Present `Perfect`
-The **Present** `Perfect` is used:
-- for **actions** which **happened** at a **indefinite** time in the past, that is, the exact time isn't important:
-  - They `have` **bought** a new house. (When `did` they **buy** it? We `don't` **know**, the time `isn't` **mentioned**.)
-- for **actions** which **started in the past** and are **still continuing in the present**:
-  - I `have` **know** Mary for ten years. (We **met** 10 years ago and we **are** **still** know each other.)
-- for **actions** which have **recently finished** ant **their results are visible in the present**:
-  - Tom `has` `just` **painted** the fence. (He has just finished painting. The paint in the fence is still wet)
+## Present `Perfect continuous`
+The **Present** `Perfect continuous` is used:
+- to put **emphasis** /ˈemfəsɪs/ on the **duration** of an action:
+  - She `has` `been` paint`ing` this picture **for 2 hours**.
+  - **But**:
+    - He `has` paint`ed` **twenty pictures**. (Here we use **present perfect simple** to put **emphasis** on **number**.)
+- for an **activity** that **is still happening** or **has recently stopped**:
+  - Why **are** you **out of breath**? `Have` you `been` runn`ing`?
+  - He `has` `been` teach`ing` for 6 years.
+- for repeated actions:
+  - She is a good tennis player. She`'s` `been` play`ing` **since** she was eight.
+  - Every morning they meet in the same cafe. They`'ve` `been` go`ing` there **for** years.
+
+<br>
+
+## Future `Simple`
+The **Future** `Simple` is used for:
+- **future actions** which are **not definite**:
+  - We `will` **travel** around the world one day.
+- **threats** or **warnings**:
+  - Be quiet or I `will` **send** you out.
+  - Stop or I'`ll` **shoot**.
+- **predictions** about the future:
+  - You `will` **be** great composer one day.
+- **with**
+   - the verbs: `hope`, `believe`, `think`, `expect`:
+     - I `hope` he `will` **pass** the exam.
+   - the adverbs: `probably`, `perhaps`
+     - `Perhaps` I'`ll` **see** her tonight.
+
+We use the **present continuous** for actions we have already **arranged** to do in the near future.
+
+<br>
+
+## Future `Perfect continuous`
+We use the **Future** `Perfect continuous`:
+- to put **emphasis** on the **duration** of an action in the future:
+  - In September, she `will` `have` `been` liv`ing` in France for a year.
+  - I `will` `have` `been` study`ing` English for 10 years by the end of this year.
 
 <br>
 
@@ -159,8 +204,8 @@ The **Present** `Perfect` is used:
 
 <br>
 
-## Present `Simple`
-**Time expressions** used with the **Present** `Simple` are:
+## Present `Perfect`
+**Time expressions** used with the **Present** `Perfect` are:
 - `already` is used in statements and go **between** the **auxiliary verb** and the **past participle**:
   - They `have` `already` **packed** their suitcases.
 - `ever` is used in question and goes **between** the **auxiliary verb** and the **past participle**:
@@ -208,44 +253,8 @@ The **Present** `Perfect` is used:
 
 # Comparisons
 ## Past Simple and Present Perfect equality
-- I **saw** Tim a week **ago**. `==` I **haven’t seen** Tim **for** a week.
-- I **became** a teacher four years **ago**. `==` I **have been** a teacher **for** 4 years.
-
-<br>
-
-## Past `Simple` or Present `Perfect`?
-Definite time in the past
-Time up to now
-
-### Rule 1
-- The **Present** `Perfect` is used when the **time period** has **NOT finished**.
-  - I **have** seen three movies **this week**. (This week has not finished yet.)
-- The **Past** `Simple` is used when the **time period HAS finished**.
-  - I **saw** three movies **last week**. (Last week has finished.)
-
-<br>
-
-### Rule 2
-- The **Present** `Perfect` is often used when giving recent news.
-  - Martin **has** crashed his car **again**. (This is new information.)
-- The **Past** `Simple` is used when giving older information.
-  - Martin **crashed** his car **last year**. (This is old information.)
-
-<br>
-
-### Rule 3
-- The **Present** `Perfect` is used when the **exact time** is **not known** or **not important**.
-  - I **have** seen that movie **already**. (We don't know when.)
-- The **Past** `Simple` is used when the **exact time** is known.
-  - I **saw** that movie **on Thursday**. (We know exactly when.)
-
-<br>
-
-### Rule 4
-- The **Present** `Perfect` is used with for and since when the actions have not finished yet.
-  - I **have** lived in Victoria **for five years**. (I still live in Victoria.)
-- The **Past** `Simple` is used with for when the actions have already finished.
-  - I **lived** in Victoria **for five years**. (I don't live in Victoria now.)
+- I `saw` Tim a week **ago**. `==` I `haven’t seen` Tim **for** a week.
+- I `became` a teacher four years **ago**. `==` I `have been` a teacher **for** 4 years.
 
 <br>
 
@@ -256,4 +265,4 @@ Time up to now
 <br>
 
 ## How long ago/When
-- **When** did you go to Spain? `==` **How long ago** did you go to Spain?
+- **When** `did` you `go` to Spain? `==` **How long ago** `did` you `go` to Spain?
