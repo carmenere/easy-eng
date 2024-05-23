@@ -6,11 +6,13 @@
 - [Subject-verb agreement](#subject-verb-agreement)
   - [To have](#to-have)
     - [Present](#present)
+    - [Past](#past)
   - [To be](#to-be)
     - [Present](#present-1)
-    - [Past](#past)
+    - [Past](#past-1)
   - [To do](#to-do)
     - [Present](#present-2)
+    - [Past](#past-2)
 - [Active voice](#active-voice)
   - [Simple](#simple)
   - [Continuous](#continuous)
@@ -65,23 +67,23 @@ In other words,
 
 ## To have
 ### Present
-- In **all** clause types (**affirmative**, **interrogative** and **negative**) we use:
-  - `have`/`haven't` with the **first/second person** or **third person plural**;
-  - `has`/`hasn't` with the **third person singular**;
+- `have`/`haven't` with the **first/second person** or **third person plural**;
+- `has`/`hasn't` with the **third person singular**;
+
+### Past
+- `had`/`hadn't` with the **first/second/third person**, **no** matter **singular** or **plural**;
 
 <br>
 
 ## To be
 ### Present
-- In **all** clause types (the **affirmative**, **interrogative** and **negative**) we use:
-  - `am`/`am not` with the **first person**;
-  - `are`/`are not` with the **second person** or **third person plural**;
-  - `is`/`isn't` with the **third person singular**;
+- `am`/`am not` with the **first person**;
+- `are`/`aren't` with the **second person** or **third person plural**;
+- `is`/`isn't` with the **third person singular**;
 
 ### Past
-- In all clause types (the **affirmative**, **interrogative** and **negative**) we use:
-  - `was`/`was not` with the **singular**;
-  - `were`/`were not` with the **plural**;
+- `was`/`wasn't` with the **singular**, **no** matter **first/second/third person**;
+- `were`/`weren't` with the **plural**, **no** matter **first/second/third person**;
 
 <br>
 
@@ -90,6 +92,9 @@ In other words,
 - In the **interrogative** and **negative** we use:
   - `do`/`don't` with the **first/second person** or **third person plural**;
   - `does`/`doesn't` with the **third person singular**;
+
+### Past
+- `did`/`didn't` with the **first/second/third person**, **no** matter **singular** or **plural**;
 
 <br>
 
