@@ -89,9 +89,8 @@ In other words,
 
 ## To do
 ### Present
-- In the **interrogative** and **negative** we use:
-  - `do`/`don't` with the **first/second person** or **third person plural**;
-  - `does`/`doesn't` with the **third person singular**;
+- `do`/`don't` with the **first/second person** or **third person plural**;
+- `does`/`doesn't` with the **third person singular**;
 
 ### Past
 - `did`/`didn't` with the **first/second/third person**, **no** matter **singular** or **plural**;
