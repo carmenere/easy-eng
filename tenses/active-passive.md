@@ -1,23 +1,38 @@
 # Table of contents
 - [Table of contents](#table-of-contents)
 - [Notations](#notations)
-  - [Common](#common)
-  - [Clause types](#clause-types)
+- [Clause types](#clause-types)
 - [Subject-verb agreement](#subject-verb-agreement)
-  - [To have](#to-have)
+  - [`to have`](#to-have)
     - [Present](#present)
     - [Past](#past)
-  - [To be](#to-be)
+  - [`to be`](#to-be)
     - [Present](#present-1)
     - [Past](#past-1)
-  - [To do](#to-do)
+  - [`to do`](#to-do)
     - [Present](#present-2)
     - [Past](#past-2)
 - [Active voice](#active-voice)
-  - [Simple](#simple)
-  - [Continuous](#continuous)
-  - [Perfect](#perfect)
-  - [Perfect Continuous](#perfect-continuous)
+  - [`Simple`](#simple)
+    - [Past](#past-3)
+    - [Present](#present-3)
+    - [Future](#future)
+    - [Future in the Past](#future-in-the-past)
+  - [`Continuous`](#continuous)
+    - [Past](#past-4)
+    - [Present](#present-4)
+    - [Future](#future-1)
+    - [Future in the Past](#future-in-the-past-1)
+  - [`Perfect`](#perfect)
+    - [Past](#past-5)
+    - [Present](#present-5)
+    - [Future](#future-2)
+    - [Future in the Past](#future-in-the-past-2)
+  - [`Perfect Continuous`](#perfect-continuous)
+    - [Past](#past-6)
+    - [Present](#present-6)
+    - [Future](#future-3)
+    - [Future in the Past](#future-in-the-past-3)
   - [Examples](#examples)
     - [`Simple`](#simple-1)
     - [`Continuous`](#continuous-1)
@@ -25,19 +40,29 @@
     - [`Perfect continuous`](#perfect-continuous-1)
   - [Adverbs of frequency](#adverbs-of-frequency)
 - [Passive voice](#passive-voice)
-  - [Simple](#simple-2)
-  - [Continuous](#continuous-2)
-  - [Perfect](#perfect-2)
+  - [`Simple`](#simple-2)
+    - [Past](#past-7)
+    - [Present](#present-7)
+    - [Future](#future-4)
+    - [Future in the Past](#future-in-the-past-4)
+  - [`Continuous`](#continuous-2)
+    - [Past](#past-8)
+    - [Present](#present-8)
+  - [`Perfect`](#perfect-2)
+    - [Past](#past-9)
+    - [Present](#present-9)
+    - [Future](#future-5)
+    - [Future in the Past](#future-in-the-past-5)
   - [Examples](#examples-1)
-    - [Simple](#simple-3)
-    - [Continuous](#continuous-3)
-    - [Perfect](#perfect-3)
+    - [`Simple`](#simple-3)
+    - [`Continuous`](#continuous-3)
+    - [`Perfect`](#perfect-3)
 - [Active vs. Passive](#active-vs-passive)
 
 <br>
 
+
 # Notations
-## Common
 - `V1` is a **bare infinitive** of the **main verb**.
 - `ing` is the **main verb** with `-ing` suffix.
 - `V2` is a **past form** of the **main verb**.
@@ -47,7 +72,7 @@
 
 <br>
 
-## Clause types
+# Clause types
 - `+` **Affirmative** /əˈfɜːrmətɪv/ (aka **statement**)
 - `-` **Negative** /ˈneɡətɪv/
 - `?` **Interrogative** /ˌɪntəˈrɑːɡətɪv/
@@ -65,7 +90,7 @@ In other words,
 
 <br>
 
-## To have
+## `to have`
 ### Present
 - `have`/`haven't` with the **first/second person** or **third person plural**;
 - `has`/`hasn't` with the **third person singular**;
@@ -75,7 +100,7 @@ In other words,
 
 <br>
 
-## To be
+## `to be`
 ### Present
 - `am`/`am not` with the **first person**;
 - `are`/`aren't` with the **second person** or **third person plural**;
@@ -87,7 +112,7 @@ In other words,
 
 <br>
 
-## To do
+## `to do`
 ### Present
 - `do`/`don't` with the **first/second person** or **third person plural**;
 - `does`/`doesn't` with the **third person singular**;
@@ -117,11 +142,7 @@ So, there are:<br>
 
 <br>
 
-## Simple
-**Formula**: `V1`<br>
-
-<br>
-
+## `Simple`
 > **Notes**:<br>
 > We **add** an `-s` to the **main** verb when **subject** is **third person singular** (**affirmative** case).<br>
 > **But** we **don't add** an `-s` to the **main** verb when it appears with `does`/`doesn't` (**interrogative** and **negative** cases).<br>
@@ -130,135 +151,194 @@ So, there are:<br>
 
 <br>
 
-- **Past**: `V2`
-    - (\+) `S` + `V2`
-    - (\-) `S` + `Didn't` + `V2`
-    - (?) `Did` + `S` + `V2`
-    - (?-)
-      - `Did` + `S` + **not** + `V2`
-      - `Didn't` + `S` + `V2`
-- **Present**: `V1`
-    - (\+) `S` + `V1`
-    - (\-) `S` + `don't`/`doesn't` + `V1`
-    - (?) `Do`/`Does` + `S` + `V1`
-    - (?-)
-      - `Do`/`Does` + `S` + **not** + `V1`
-      - `Don't`/`Doesn't` + `S` + `V1`
-- **Future**: `will` + `V1`
-    - (\+) `S` + `will` + `V1`
-    - (\-) `S` + `won't` + `V1`
-    - (?) `Will` + `S` + `V1`
-    - (?-)
-      - `Will` + `S` + **not** + `V1`
-      - `Won't` + `S` + `V1`
-- **Future in the Past**: `would` + `V1`
-    - (\+) `S` + `would` + `V1`
-    - (\-) `S` + `wouldn't` + `V1`
-    - (?) `Would` + `S` + `V1`
-    - (?-)
-      - `Would` + `S` + **not** + `V1`
-      - `Wouldn't` + `S` +`V1`
+### Past
+**Formula**: `V2`<br>
+
+- (\+) `S` + `V2`
+- (\-) `S` + `Didn't` + `V2`
+- (?) `Did` + `S` + `V2`
+- (?-)
+  - `Did` + `S` + **not** + `V2`
+  - `Didn't` + `S` + `V2`
 
 <br>
 
-## Continuous
-**Formula**: `to be` + `ing`<br>
+### Present
+**Formula**: `V1`<br>
 
-- **Past**: `was`/`were` + `ing`
-    - (\+) `S` + `was`/`were` + `ing`
-    - (\-) `S` + `wasn't`/`weren't` + `ing`
-    - (?) `Was`/`Were` + `S` + `ing`
-    - (?-)
-      - `Was`/`Were` + `S` + **not** + `ing`
-      - `Wasn't`/`Weren't` + `S` + `ing`
-- **Present**: `am`/`are`/`is` + `ing`
-    - (\+) `S` + `am`/`are`/`is` + `ing`
-    - (\-) `S` + `am not`/`isn't`/`aren't` + `ing`
-    - (?) `Am`/`Is`/`Are` + `S` + `ing`
-    - (?-)
-      - `Am`/`Is`/`Are` + `S` + **not** + `ing`
-      - `Isn't`/`Aren't` + `S` + `ing`
-- **Future**: `will be` + `ing`
-    - (\+) `S` + `will` + `be` + `ing`
-    - (\-) `S` + `won't` + `be` + `ing`
-    - (?) `Will` + `S` + `be` + `ing`
-    - (?-)
-      - `Will` + `S` + **not** + `be` + `ing`
-      - `Won't` + `S` + `be` + `ing`
-- **Future in the Past**: `would` + `be` + `ing`
-    - (\+) `S` + `would` + `be` + `ing`
-    - (\-) `S` + `wouldn't` + `be` + `ing`
-    - (?) `Would` + `S` + `be` + `ing`
-    - (?-)
-      - `Would` + `S` + **not** + `be` + `ing`
-      - `Wouldn't` + `S` + `be` + `ing`
-<br>
-
-## Perfect
-**Formula**: `to have` + `V3` <br>
-
-- **Past**: `had` + `V3`
-    - (\+) `S` + `had` + `V3`
-    - (\-) `S` + `hadn't` + `V3`
-    - (?) `Had` + `S` + `V3`
-    - (?-)
-      - `Had` + `S` + **not** + `V3`
-      - `Hadn't` + `S` + `V3`
-- **Present**: `has`/`have` + `V3`
-    - (\+) `S` + `has`/`have` + `V3`
-    - (\-) `S` + `hasn't`/`haven't` + `V3`
-    - (?) `Has`/`Have` + `S` + `V3`
-    - (?-)
-      - `Has`/`Have` + `S` + **not** + `V3`
-      - `Hasn't`/`Haven't` + `S` + `V3`
-- **Future**: `will` + `have` + `V3`
-    - (\+) `S` + `will` + `have` + `V3`
-    - (\-) `S` + `won't` + `have` + `V3`
-    - (?) `Will` + `S` + `has`/`have` + `V3`
-    - (?-)
-      - `Will` + `S` + `has`/`have` + `V3`
-      - `Won't` + `S` + **not** + `has`/`have` + `V3`
-- **Future in the Past**: `would` + `have` + `V3`
-    - (\+) `S` + `would` + `have` + `V3`
-    - (\-) `S` + `wouldn't` + `have` + `V3`
-    - (?) `Would` + `S` + `has`/`have` + `V3`
-    - (?-)
-      - `Will` + `S` + `has`/`have` + `V3`
-      - `Wouldn't` + `S` + **not** + `has`/`have` + `V3`
+- (\+) `S` + `V1`
+- (\-) `S` + `don't`/`doesn't` + `V1`
+- (?) `Do`/`Does` + `S` + `V1`
+- (?-)
+  - `Do`/`Does` + `S` + **not** + `V1`
+  - `Don't`/`Doesn't` + `S` + `V1`
 
 <br>
 
-## Perfect Continuous
-**Formula**: `to have` + `been` + `ing`<br>
+### Future
+**Formula**: `will` + `V1`<br>
 
-- **Past**: `had` + `been` + `ing`
-    - (\+) `S` + `had` + `been` + `ing`
-    - (\-) `S` + `hadn't` + `been` + `ing`
-    - (?) `Had` + `S` + `been` + `ing`
-    - (?-)
-      - `Had` + `S` + **not** + `been` + `ing`
-      - `Hadn't` + `S` + `been` + `ing`
-- **Present**: `has`/`have` + `been` + `ing`
-    - (\+) `S` + `has`/`have` + `been` + `ing`
-    - (\-) `S` + `hasn't`/`haven't` + `been` + `ing`
-    - (?) `Has`/`Have` + `S` + `been` + `ing`
-    - (?-)
-      - `Has`/`Have` + `S` + **not** + `been` + `ing`
-      - `Hasn't`/`Haven't` + `S` + `been` + `ing`
-- **Future**: `will` + `have` + `been` + `ing`
-    - (\+) `S` + `will` + `have` + `been` + `ing`
-    - (\-) `S` + `won't` + `have` + `been` + `ing`
-    - (?) `Will` + `S` + `has`/`have` + `been` + `ing`
-    - (?-)
-      - `Will` + `S` + **not** + `has`/`have` + `been` + `ing`
-      - `Won't` + `S` + `has`/`have` + `been` + `ing`
-- **Future in the Past**: would `have` + `been` + `ing`
-    - (\+) `S` + `would` + `have` + `been` + `ing`
-    - (\-) `S` + `wouldn't` + `have` + `been` + `ing`
-    - (?) `Would` + `S` + `has`/`have` + `been` + `ing`
-    - (?-)
-      - `Would` + `S` + **not** + `has`/`have` + `been` + `ing`
-      - `Wouldn't` + `S` + `has`/`have` + `been` + `ing`
+- (\+) `S` + `will` + `V1`
+- (\-) `S` + `won't` + `V1`
+- (?) `Will` + `S` + `V1`
+- (?-)
+  - `Will` + `S` + **not** + `V1`
+  - `Won't` + `S` + `V1`
+
+<br>
+
+### Future in the Past
+**Formula**: `would` + `V1`<br>
+
+- (\+) `S` + `would` + `V1`
+- (\-) `S` + `wouldn't` + `V1`
+- (?) `Would` + `S` + `V1`
+- (?-)
+  - `Would` + `S` + **not** + `V1`
+  - `Wouldn't` + `S` +`V1`
+
+<br>
+
+## `Continuous`
+### Past
+**Formula**: `was`/`were` + `ing`<br>
+
+- (\+) `S` + `was`/`were` + `ing`
+- (\-) `S` + `wasn't`/`weren't` + `ing`
+- (?) `Was`/`Were` + `S` + `ing`
+- (?-)
+  - `Was`/`Were` + `S` + **not** + `ing`
+  - `Wasn't`/`Weren't` + `S` + `ing`
+
+<br>
+
+### Present
+**Formula**: `am`/`are`/`is` + `ing`<br>
+
+- (\+) `S` + `am`/`are`/`is` + `ing`
+- (\-) `S` + `am not`/`isn't`/`aren't` + `ing`
+- (?) `Am`/`Is`/`Are` + `S` + `ing`
+- (?-)
+  - `Am`/`Is`/`Are` + `S` + **not** + `ing`
+  - `Isn't`/`Aren't` + `S` + `ing`
+
+<br>
+
+### Future
+**Formula**: `will be` + `ing`<br>
+
+- (\+) `S` + `will` + `be` + `ing`
+- (\-) `S` + `won't` + `be` + `ing`
+- (?) `Will` + `S` + `be` + `ing`
+- (?-)
+  - `Will` + `S` + **not** + `be` + `ing`
+  - `Won't` + `S` + `be` + `ing`
+
+<br>
+
+### Future in the Past
+**Formula**: `would` + `be` + `ing`<br>
+
+- (\+) `S` + `would` + `be` + `ing`
+- (\-) `S` + `wouldn't` + `be` + `ing`
+- (?) `Would` + `S` + `be` + `ing`
+- (?-)
+  - `Would` + `S` + **not** + `be` + `ing`
+  - `Wouldn't` + `S` + `be` + `ing`
+
+<br>
+
+## `Perfect`
+### Past
+**Formula**: `had` + `V3`<br>
+
+- (\+) `S` + `had` + `V3`
+- (\-) `S` + `hadn't` + `V3`
+- (?) `Had` + `S` + `V3`
+- (?-)
+  - `Had` + `S` + **not** + `V3`
+  - `Hadn't` + `S` + `V3`
+
+<br>
+
+### Present
+**Formula**: `has`/`have` + `V3`<br>
+
+- (\+) `S` + `has`/`have` + `V3`
+- (\-) `S` + `hasn't`/`haven't` + `V3`
+- (?) `Has`/`Have` + `S` + `V3`
+- (?-)
+  - `Has`/`Have` + `S` + **not** + `V3`
+  - `Hasn't`/`Haven't` + `S` + `V3`
+
+<br>
+
+### Future
+**Formula**: `will` + `have` + `V3`<br>
+
+- (\+) `S` + `will` + `have` + `V3`
+- (\-) `S` + `won't` + `have` + `V3`
+- (?) `Will` + `S` + `has`/`have` + `V3`
+- (?-)
+  - `Will` + `S` + `has`/`have` + `V3`
+  - `Won't` + `S` + **not** + `has`/`have` + `V3`
+
+<br>
+
+### Future in the Past
+**Formula**: `would` + `have` + `V3`<br>
+
+- (\+) `S` + `would` + `have` + `V3`
+- (\-) `S` + `wouldn't` + `have` + `V3`
+- (?) `Would` + `S` + `has`/`have` + `V3`
+- (?-)
+  - `Will` + `S` + `has`/`have` + `V3`
+  - `Wouldn't` + `S` + **not** + `has`/`have` + `V3`
+
+<br>
+
+## `Perfect Continuous`
+`to have` + `been` + `ing`<br>
+
+### Past
+**Formula**: `had` + `been` + `ing`<br>
+
+- (\+) `S` + `had` + `been` + `ing`
+- (\-) `S` + `hadn't` + `been` + `ing`
+- (?) `Had` + `S` + `been` + `ing`
+- (?-)
+  - `Had` + `S` + **not** + `been` + `ing`
+  - `Hadn't` + `S` + `been` + `ing`
+
+### Present
+**Formula**: `has`/`have` + `been` + `ing`<br>
+
+- (\+) `S` + `has`/`have` + `been` + `ing`
+- (\-) `S` + `hasn't`/`haven't` + `been` + `ing`
+- (?) `Has`/`Have` + `S` + `been` + `ing`
+- (?-)
+  - `Has`/`Have` + `S` + **not** + `been` + `ing`
+  - `Hasn't`/`Haven't` + `S` + `been` + `ing`
+
+### Future
+**Formula**: `will` + `have` + `been` + `ing`<br>
+
+- (\+) `S` + `will` + `have` + `been` + `ing`
+- (\-) `S` + `won't` + `have` + `been` + `ing`
+- (?) `Will` + `S` + `has`/`have` + `been` + `ing`
+- (?-)
+  - `Will` + `S` + **not** + `has`/`have` + `been` + `ing`
+  - `Won't` + `S` + `has`/`have` + `been` + `ing`
+
+### Future in the Past
+**Formula**: `would` + `have` + `been` + `ing`<br>
+
+- (\+) `S` + `would` + `have` + `been` + `ing`
+- (\-) `S` + `wouldn't` + `have` + `been` + `ing`
+- (?) `Would` + `S` + `has`/`have` + `been` + `ing`
+- (?-)
+  - `Would` + `S` + **not** + `has`/`have` + `been` + `ing`
+  - `Wouldn't` + `S` + `has`/`have` + `been` + `ing`
 
 <br>
 
@@ -401,96 +481,131 @@ The car `must` **be repaired**.
 
 <br>
 
-## Simple
-**Formula**: `to be` + `V3`<br>
+## `Simple`
+### Past
+**Formula**: `was/were` + `V3`<br>
 
-- **Past**: `was/were` + `V3`
-    - (\+) `O` + `was/were` + `V3`.
-    - (\-) `O` + `wasn't/weren't` + `V3`.
-    - (?) `Was/Were` + `O` + `V3`?
-    - (?-)
-      - `Was/Were` + `O` + **not** + `V3`?
-      - `Wasn't/Weren't` + `O` + `V3`?
-- **Present**: `am/is/are` + `V3`
-    - (\+) `O` + `am/is/are` + `V3`
-    - (\-) `O` + `am not/isn't/aren't` + `V3`
-    - (?) `Am/Is/Are` + `O` + `V3`
-    - (?-) 
-      - `Am/Is/Are` + `O` + **not** + `V3`
-      - `Isn't/Aren't` + `O` + `V3`
-- **Future**: `will` + `be` + `V3`
-    - (\+) `O` + `will` + `be` + `V3`
-    - (\-) `O` + `won't` + `be` + `V3`
-    - (?) `Will` + `O` + `be` + `V3`
-    - (?-)
-      - `Will` + `O` + **not** + `be` + `V3`
-      - `Won't` + `O` + `be` + `V3`
-- **Future in the Past**: `would` + `be` + `V3`
-    - (\+) `O` + `would` + `be` + `V3`
-    - (\-) `O` + `wouldn't` + `be` + `V3`
-    - (?) `Would` + `O` + `be` + `V3`
-    - (?-)
-      - `Would` + `O` + **not** + `be` + `V3`
-      - `Wouldn't` + `O` + `be` + `V3`
+- (\+) `O` + `was/were` + `V3`.
+- (\-) `O` + `wasn't/weren't` + `V3`.
+- (?) `Was/Were` + `O` + `V3`?
+- (?-)
+  - `Was/Were` + `O` + **not** + `V3`?
+  - `Wasn't/Weren't` + `O` + `V3`?
 
 <br>
 
-## Continuous
-**Formula**: `to be` + `being` + `V3`<br>
+### Present
+**Formula**: `am/is/are` + `V3`<br>
 
-- **Past**: `was/were` + `being` + `V3`
-    - (\+) `O` + `was/were` + `being` + `V3`
-    - (\-) `O` + `wasn't/weren't` + `being` + `V3`
-    - (?) `Was/Were` + `O` + `being` + `V3`
-    - (?-)
-      - `Was/Were` + `O` + `being` + `V3`
-      - `Was/Were` + `O` + **not** + `being` + `V3`
-- **Present**: `am/is/are` + `being` + `V3`
-    - (\+) `O` + `am/is/are` + `being` + `V3`
-    - (\-) `O` + `am not/isn't/aren't` + `being` + `V3`
-    - (?) `Am/Is/Are` + `O` + `being` + `V3`
-    - (?-)
-      - `Am/Is/Are` + `O` + **not** + `being` + `V3`
-      - `Isn't/Aren't` + `O` + `being` + `V3`
+- (\+) `O` + `am/is/are` + `V3`
+- (\-) `O` + `am not/isn't/aren't` + `V3`
+- (?) `Am/Is/Are` + `O` + `V3`
+- (?-) 
+  - `Am/Is/Are` + `O` + **not** + `V3`
+  - `Isn't/Aren't` + `O` + `V3`
 
 <br>
 
-## Perfect
-**Formula**: `to have` + `been` + `V3`<br>
+### Future
+**Formula**: `will` + `be` + `V3`<br>
 
-- **Past**: `had` + `been` + `V3`
-    - (\+) `O` + `had` + `been` + `V3`
-    - (\-) `O` + `hadn't` + `been` + `V3`
-    - (?) `Had` + `O` + `been` + `V3`
-    - (?-)
-      - `Had` + `O` + **not** + `been` + `V3`
-      - `Hadn't` + `O` + `been` + `V3`
-- **Present**: `has/have` + `been` + `V3`
-    - (\+) `O` + `has/have` + `been` + `V3`
-    - (\-) `O` + `hasn't/haven't` + `been` + `V3`
-    - (?) `Has/Have` + `O` + `been` + `V3`
-    - (?-)
-      - `Has/Have` + `O` + **not** + `been` + `V3`
-      - `Hasn't/Haven't` + `O` + `been` + `V3`
-- **Future**: `will` + `have` + `been` + `V3`
-    - (\+) `O` + `will` + `have` + `been` + `V3`
-    - (\-) `O` + `won't` + `have` + `been` + `V3`
-    - (?) `Will` + `O` + `have` + `been` + `V3`
-    - (?-)
-      - `Will` + `O` + **not** + `have` + `been` + `V3`
-      - `Won't` + `O` + `have` + `been` + `V3`
-- **Future in the Past**: `would` + `have` + `been` + `V3`
-    - (\+) `O` + `would` + `have` + `been` + `V3`
-    - (\-) `O` + `wouldn't` + `have` + `been` + `V3`
-    - (?) `Would` + `O` + `have` + `been` + `V3`
-    - (?-)
-      - `Would` + `O` + **not** + `have` + `been` + `V3`
-      - `Wouldn't` + `O` + `have` + `been` + `V3`
+- (\+) `O` + `will` + `be` + `V3`
+- (\-) `O` + `won't` + `be` + `V3`
+- (?) `Will` + `O` + `be` + `V3`
+- (?-)
+  - `Will` + `O` + **not** + `be` + `V3`
+  - `Won't` + `O` + `be` + `V3`
+
+<br>
+
+### Future in the Past
+**Formula**: `would` + `be` + `V3`<br>
+
+- (\+) `O` + `would` + `be` + `V3`
+- (\-) `O` + `wouldn't` + `be` + `V3`
+- (?) `Would` + `O` + `be` + `V3`
+- (?-)
+  - `Would` + `O` + **not** + `be` + `V3`
+  - `Wouldn't` + `O` + `be` + `V3`
+
+<br>
+
+## `Continuous`
+### Past
+**Formula**: `was/were` + `being` + `V3`<br>
+
+- (\+) `O` + `was/were` + `being` + `V3`
+- (\-) `O` + `wasn't/weren't` + `being` + `V3`
+- (?) `Was/Were` + `O` + `being` + `V3`
+- (?-)
+  - `Was/Were` + `O` + `being` + `V3`
+  - `Was/Were` + `O` + **not** + `being` + `V3`
+
+<br>
+
+### Present
+**Formula**: `am/is/are` + `being` + `V3`<br>
+
+- (\+) `O` + `am/is/are` + `being` + `V3`
+- (\-) `O` + `am not/isn't/aren't` + `being` + `V3`
+- (?) `Am/Is/Are` + `O` + `being` + `V3`
+- (?-)
+  - `Am/Is/Are` + `O` + **not** + `being` + `V3`
+  - `Isn't/Aren't` + `O` + `being` + `V3`
+
+<br>
+
+## `Perfect`
+### Past
+**Formula**: `had` + `been` + `V3`<br>
+
+- (\+) `O` + `had` + `been` + `V3`
+- (\-) `O` + `hadn't` + `been` + `V3`
+- (?) `Had` + `O` + `been` + `V3`
+- (?-)
+  - `Had` + `O` + **not** + `been` + `V3`
+  - `Hadn't` + `O` + `been` + `V3`
+
+<br>
+
+### Present
+**Formula**: `has/have` + `been` + `V3`<br>
+
+- (\+) `O` + `has/have` + `been` + `V3`
+- (\-) `O` + `hasn't/haven't` + `been` + `V3`
+- (?) `Has/Have` + `O` + `been` + `V3`
+- (?-)
+  - `Has/Have` + `O` + **not** + `been` + `V3`
+  - `Hasn't/Haven't` + `O` + `been` + `V3`
+
+<br>
+
+### Future
+**Formula**: `will` + `have` + `been` + `V3`<br>
+
+- (\+) `O` + `will` + `have` + `been` + `V3`
+- (\-) `O` + `won't` + `have` + `been` + `V3`
+- (?) `Will` + `O` + `have` + `been` + `V3`
+- (?-)
+  - `Will` + `O` + **not** + `have` + `been` + `V3`
+  - `Won't` + `O` + `have` + `been` + `V3`
+
+<br>
+
+### Future in the Past
+**Formula**: `would` + `have` + `been` + `V3`<br>
+
+- (\+) `O` + `would` + `have` + `been` + `V3`
+- (\-) `O` + `wouldn't` + `have` + `been` + `V3`
+- (?) `Would` + `O` + `have` + `been` + `V3`
+- (?-)
+  - `Would` + `O` + **not** + `have` + `been` + `V3`
+  - `Wouldn't` + `O` + `have` + `been` + `V3`
 
 <br>
 
 ## Examples
-### Simple
+### `Simple`
 - **Past**:
     - (\+) The letters `were` `written` *yesterday*.
     - (\-) The letters `weren't` `written`.
@@ -509,7 +624,7 @@ The car `must` **be repaired**.
 
 <br>
 
-### Continuous
+### `Continuous`
 - **Past**:
     - (\+) The letters `were` `being` `written` *at 5 o'clock yesterday*.
     - (\-) The letters `weren't` `being` `written` *at 5 o'clock yesterday*.
@@ -521,7 +636,7 @@ The car `must` **be repaired**.
 
 <br>
 
-### Perfect
+### `Perfect`
 - **Past**:
     - (\+) The letters `had` `been` `written` *by 5 o'clock yesterday*.
     - (\-) The letters `hadn't` `been` `written` *by 5 o'clock yesterday*.
