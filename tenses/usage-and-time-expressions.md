@@ -108,7 +108,7 @@ The **Present** `Perfect` is used:
   - I `have` **know** Mary **for** ten years. (We **met** 10 years ago and we **are still** know each other.)
   - `Have` you `seen` Ben **recently**?
   - I `have` `seen` three movies **this week**. (This week has not finished yet.)
-- to say how many times someone did something
+- to put **emphasis** /ˈemfəsɪs/ on the **how many times** someone did something:
   - He `has` **never** `driven` a car **before**. *OR* He `hasn't` `driven` a car **before**.
 
 <br>
