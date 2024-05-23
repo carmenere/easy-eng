@@ -8,10 +8,11 @@
 - [Will/Shall](#willshall)
 - [Modals](#modals)
 - [Interrogative words](#interrogative-words)
-- [Personal pronoun + Had](#personal-pronoun--had)
-- [Personal pronoun + Have (got)](#personal-pronoun--have-got)
-- [Personal pronoun + To be](#personal-pronoun--to-be)
-- [dunno/gonna/wanna/gotta](#dunnogonnawannagotta)
+- [Personal pronoun + `have`](#personal-pronoun--have)
+- [Personal pronoun + `had`/`would`](#personal-pronoun--hadwould)
+- [Personal pronoun + `to be`](#personal-pronoun--to-be)
+- [Personal pronoun + `will`](#personal-pronoun--will)
+- [`dunno`/`gonna`/`wanna`/`gotta`](#dunnogonnawannagotta)
 
 <br>
 
@@ -96,7 +97,7 @@
 
 <br>
 
-# Personal pronoun + Had
+# Personal pronoun + `have`
 |Negative|Short form|Transcription|
 |:-------|:---------|:------------|
 |I **have** (got)|I`'ve` (got)|/aɪv/|
@@ -110,20 +111,20 @@
 
 <br>
 
-# Personal pronoun + Have (got)
+# Personal pronoun + `had`/`would`
 |Negative|Short form|Transcription|
 |:-------|:---------|:------------|
-|I **had**|I`'d`|UK /aɪd/<br>US /aɪd/|
-|you **had**|you`'d`|UK,US /juːd/|
-|she **had**|she`'d`|UK,US /ʃid/<br>UK,US /ʃiːd/|
-|he **had**|he`'d`|UK,US /hiːd/|
-|it **had**|it`'d`|UK,US /ˈɪt.əd/|
-|we **had**|we`'d`|UK,US /wiːd/<br>UK,US /wid/|
-|they **had**|they`'d`|UK,US /ðeɪd/|
+|I **had**/**would**|I`'d`|UK /aɪd/<br>US /aɪd/|
+|you **had**/**would**|you`'d`|UK,US /juːd/|
+|she **had**/**would**|she`'d`|UK,US /ʃid/<br>UK,US /ʃiːd/|
+|he **had**/**would**|he`'d`|UK,US /hiːd/|
+|it **had**/**would**|it`'d`|UK,US /ˈɪt.əd/|
+|we **had**/**would**|we`'d`|UK,US /wiːd/<br>UK,US /wid/|
+|they **had**/**would**|they`'d`|UK,US /ðeɪd/|
 
 <br>
 
-# Personal pronoun + To be
+# Personal pronoun + `to be`
 |Negative|Short form|Transcription|
 |:-------|:---------|:------------|
 |I **am**|I`'m`|/aɪm/|
@@ -137,7 +138,21 @@
 
 <br>
 
-# dunno/gonna/wanna/gotta
+# Personal pronoun + `will`
+|Negative|Short form|Transcription|
+|:-------|:---------|:------------|
+|I **will**|I`'ll`|/aɪl/|
+|You **will**|You`'ll`|/juːl/|
+|He **will**|He`'ll`|/hiːl/|
+|She **will**|She`'ll`|/ʃil/<br>/ʃiːl/|
+|It **will**|It`'ll`|/ˈɪt.əl/|
+|We **will**|We`'ll`|/wiːl/<br>/wil/|
+|You **will**|You`'ll`|/juːl/|
+|They **will**|They`'ll`|/ðeɪl/|
+
+<br>
+
+# `dunno`/`gonna`/`wanna`/`gotta`
 |Full form|Short form|Transcription|
 |:--------|:---------|:------------|
 |**don't know**|**dunno**|UK /dəˈnəʊ/<br>US /dəˈnoʊ/|
