@@ -2,12 +2,12 @@
 - [Table of contents](#table-of-contents)
 - [Usage](#usage)
   - [Past `Simple`](#past-simple)
-  - [Past `Perfect`](#past-perfect)
   - [Past `Continuous`](#past-continuous)
+  - [Past `Perfect`](#past-perfect)
   - [Past `Perfect continuous`](#past-perfect-continuous)
   - [Present `Simple`](#present-simple)
-  - [Present `Perfect`](#present-perfect)
   - [Present `Continuous`](#present-continuous)
+  - [Present `Perfect`](#present-perfect)
   - [Present `Perfect continuous`](#present-perfect-continuous)
   - [Future `Simple`](#future-simple)
   - [Future `Perfect continuous`](#future-perfect-continuous)
@@ -37,19 +37,6 @@ The **Past** `Simple` is used:
 
 <br>
 
-## Past `Perfect`
-The **Past** `Perfect` is used:
-- for an **action** which **happened** in the past **before** another **action**:
-   - They `had` **done** their homework **before** they **went** out to play yesterday afternoon.
-- for an **action** which **happened before** a **stated time** in the past: 
-   - She `had` **watered** all the flowers **by** five o'clock in the afternoon.
-   - They **weren't** at home. They `had` **gone** out.
-   - **After** she `had` **packed** her suitcase, she **called** a taxi.
-   - She `had` **packed** her suitcase **before** she **called** a taxi.
-   - **After** he `had` **cleaned** the flat he **watched** TV.
-
-<br>
-
 ## Past `Continuous`
 The Past `Continuous` is used:
   - for an **action** which **was in progress** `at a stated time` in the past (we **don't know** **when** the action **started** or **finished**):
@@ -61,6 +48,19 @@ The Past `Continuous` is used:
   - for **two** or **more** **actions** which **were happening at the same time** in the past (**simultaneous past actions** /ˌsɪmlˈteɪniəs/):
      - The people `were` watch`ing` **while** the cowboy `was` rid`ing` the bull.
      - He `was` listen`ing` carefully **while** they `were` explain`ing` the paln to him.
+
+<br>
+
+## Past `Perfect`
+The **Past** `Perfect` is used:
+- for an **action** which **happened** in the past **before** another **action**:
+   - They `had` **done** their homework **before** they **went** out to play yesterday afternoon.
+- for an **action** which **happened before** a **stated time** in the past: 
+   - She `had` **watered** all the flowers **by** five o'clock in the afternoon.
+   - They **weren't** at home. They `had` **gone** out.
+   - **After** she `had` **packed** her suitcase, she **called** a taxi.
+   - She `had` **packed** her suitcase **before** she **called** a taxi.
+   - **After** he `had` **cleaned** the flat he **watched** TV.
 
 <br>
 
@@ -85,6 +85,18 @@ The **Present** `Simple` is used for:
 
 <br>
 
+## Present `Continuous`
+We use **Present** `Continuous` for:
+- actions happening **now**, at the moment of speaking.
+  - They **are** walk`ing` in the park now.
+- temporary actions **around now** but **not** at the momemt of speaking.
+  - She **is** work`ing` hard these days. Right now she **isn't** work`ing`, she **is** yawn`ing`. /jɔːn/
+- actions we have already **arranged** to do in the near future:
+  - I'`m` meet`ing` Helen at two o'clock.
+  - He `is` hav`ing` a meeting with his boss in an hour.
+
+<br>
+
 ## Present `Perfect`
 The **Present** `Perfect` is used:
 - for **actions** which **happened** in *the past* and the **exact time isn't important** or **known**:
@@ -98,18 +110,6 @@ The **Present** `Perfect` is used:
   - I `have` `seen` three movies **this week**. (This week has not finished yet.)
 - to say how many times someone did something
   - He `has` **never** `driven` a car **before**. *OR* He `hasn't` `driven` a car **before**.
-
-<br>
-
-## Present `Continuous`
-We use **Present** `Continuous` for:
-- actions happening **now**, at the moment of speaking.
-  - They **are** walk`ing` in the park now.
-- temporary actions **around now** but **not** at the momemt of speaking.
-  - She **is** work`ing` hard these days. Right now she **isn't** work`ing`, she **is** yawn`ing`. /jɔːn/
-- actions we have already **arranged** to do in the near future:
-  - I'`m` meet`ing` Helen at two o'clock.
-  - He `is` hav`ing` a meeting with his boss in an hour.
 
 <br>
 
