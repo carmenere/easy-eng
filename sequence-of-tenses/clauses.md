@@ -1,3 +1,20 @@
+# Table of contents
+- [Table of contents](#table-of-contents)
+- [Clause](#clause)
+- [Independent clause](#independent-clause)
+    - [Examples](#examples)
+- [Dependent clause](#dependent-clause)
+    - [Examples](#examples-1)
+  - [Relative clause](#relative-clause)
+    - [Examples](#examples-2)
+  - [Time clause](#time-clause)
+    - [`Present` time clause](#present-time-clause)
+    - [`Future` time clause](#future-time-clause)
+    - [`Past` time clause](#past-time-clause)
+    - [Time clauses with `since`](#time-clauses-with-since)
+
+<br>
+
 # Clause
 A **clause** is a group of words which contains a **subject** and a **predicate** (**verb**) and expresses a complete thought. In other words, a **clause** is a **sentence** or a **part of a sentence** that has meaning **on its own**.<br>
 
@@ -37,7 +54,7 @@ A **dependent** clause **cannot** *stand alone* as a **sentence** and is depende
 
 <br>
 
-# Relative clause
+## Relative clause
 A **relative** clause is a **kind** of **dependent** clause which **provides additional information** about a **noun** or **pronoun** in your **main** clause.<br>
 Relative clauses are introduced by relative pronouns such as `who`, `whom`, `whose`, `which` and `that`.<br>
 
@@ -50,7 +67,7 @@ Relative clauses are introduced by relative pronouns such as `who`, `whom`, `who
 
 <br>
 
-# Time clause
+## Time clause
 A **time** clause is a **dependent** clause that begins with a **time word**:
 - `after`;
 - `as long as`;
@@ -67,20 +84,6 @@ A **time** clause is a **dependent** clause that begins with a **time word**:
 - `untill`;
 - `when`;
 - `while`;
-
-<br>
-
-**Time clauses** follow **sequnces of times rules**. But if `when` is a **question word**, then **sequnces of times rules** are **not** enforced:
-- Could you tell me **when the bus will come**?
-
-<br>
-
-## Sequence of tenses
-|`Main` clause|`Time` clause|
-|:--------------|:--------------|
-|**Present** `Simple`|**Present** `Simple`|
-|**Future** `Simple`|**Present** `Simple`<br>**Present** `Perfect`<br>*Note*: **Present** `Simple` is preferred|
-|**Past** `Simple`|**Past** `Simple`<br>**Past** `Perfect`<br>**Past** `Continuous`|
 
 <br>
 
