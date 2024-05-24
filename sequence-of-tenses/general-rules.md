@@ -1,7 +1,17 @@
+# Table of contents
+- [Table of contents](#table-of-contents)
+- [Sequence of tenses](#sequence-of-tenses)
+  - [General rules](#general-rules)
+  - [Exceptions](#exceptions)
+
+<br>
+
 # Sequence of tenses
 ## General rules
 There are 2 genereal rules
 1. If `Main` clause uses **Present** (`Simple`/`Continuous`/`Perfect`/`Perfect continuous`) then **any** appropriate *tense* can be used in `Subordinate` clause.
+   - `When` she **comes** to scholl she **takes off** her coat.
+   - Please **turn off** the light `when` you **leave** the room.
 2. If `Main` clause uses **Future** (`Simple`/`Continuous`/`Perfect`/`Perfect continuous`) then **any** appropriate *tense* can be used in `Subordinate` clause.
 3. If `Main` clause uses **Past** (`Simple`/`Continuous`/`Perfect`/`Perfect continuous`) then one of **Past** *tense* must be used.
    - **There 3 situations**:

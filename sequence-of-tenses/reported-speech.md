@@ -1,3 +1,16 @@
+# Table of contents
+- [Table of contents](#table-of-contents)
+- [Direct speech. Reported speech](#direct-speech-reported-speech)
+- [Sequences of time in reported speech](#sequences-of-time-in-reported-speech)
+- [Changes when using reported speech](#changes-when-using-reported-speech)
+  - [Tenses](#tenses)
+      - [Exceptions](#exceptions)
+  - [Modal verbs](#modal-verbs)
+  - [Demonstrative adjectives](#demonstrative-adjectives)
+  - [Adverbs of time and place](#adverbs-of-time-and-place)
+
+<br>
+
 # Direct speech. Reported speech
 **Direct speech** is the **exact words** someone said. We use quotes ('').<br>
 **Reported speech** is the **exact meaning** of what someone said, but **not** the *exact words*.<br>

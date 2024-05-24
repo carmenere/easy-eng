@@ -1,3 +1,20 @@
+# Table of contents
+- [Table of contents](#table-of-contents)
+- [Clause](#clause)
+- [Independent clause](#independent-clause)
+    - [Examples](#examples)
+- [Dependent clause](#dependent-clause)
+    - [Examples](#examples-1)
+  - [Relative clause](#relative-clause)
+    - [Examples](#examples-2)
+  - [Time clause](#time-clause)
+    - [`Present` time clause](#present-time-clause)
+    - [`Future` time clause](#future-time-clause)
+    - [`Past` time clause](#past-time-clause)
+    - [Time clauses with `since`](#time-clauses-with-since)
+
+<br>
+
 # Clause
 A **clause** is a group of words which contains a **subject** and a **predicate** (**verb**) and expresses a complete thought. In other words, a **clause** is a **sentence** or a **part of a sentence** that has meaning **on its own**.<br>
 
@@ -67,13 +84,6 @@ A **time** clause is a **dependent** clause that begins with a **time word**:
 - `untill`;
 - `when`;
 - `while`;
-
-<br>
-
-
-
-<br>
-
 
 <br>
 
