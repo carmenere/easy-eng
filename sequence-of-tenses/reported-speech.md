@@ -6,7 +6,8 @@
   - [Tenses](#tenses)
       - [Exceptions](#exceptions)
   - [Modal verbs](#modal-verbs)
-  - [Demonstrative adjectives](#demonstrative-adjectives)
+  - [`this` (for time)](#this-for-time)
+  - [this/that (adjectives)](#thisthat-adjectives)
   - [Adverbs of time and place](#adverbs-of-time-and-place)
 
 <br>
@@ -90,20 +91,39 @@ These modal verbs that **don't** change in reported speech:
 
 <br>
 
-## Demonstrative adjectives
-- `this` ➔ `that`
-- `these` ➔ `those`
+## `this` (for time)
+- `this week/month/year` ➔ `that week/month/year`
+
+<br>
+
+## this/that (adjectives)
+- `this/that` ➔ `the`
 
 <br>
 
 ## Adverbs of time and place
 - `ago` ➔ `before`
+  - "I saw her a week **ago**". He said he had seen her a week **before**.
 - `here` ➔ `there`
+  - "I live **here**". He told me he lived **there**.
 - `next year` ➔ `the next year`
 - `now` ➔ `then`
 - `the day after tomorrow` ➔ `two days later`
+  - "We'll come **the day after tomorrow**". They said that they would come in **two days later**.
 - `the day before yesterday` ➔ `two days before`
+  - "I met her **the day before yesterday**". He said that he had met her **two days before**.
 - `today` ➔ `that day`
+  - "I saw him **today**". She said that she had seen him **that day**.
 - `tomorrow` ➔ `the next day`
+  - "I'll see you **tomorrow**". He said that he would see me **the next day**.
 - `tonight` ➔ `that night`
 - `yesterday` ➔ `the day before`
+  - "I saw him **yesterday**". She said that she had seen him **the day before**.
+- `this/that` (adjectives)
+  - "Do you like **this** shirt?". He asked if I liked **the** shirt.
+- `this/that` (for time)
+  - "I'm getting a new car **this week**". She said she was getting a new car **that week**.
+- `next week/month/year` ➔ `the following week/month/year`
+  - "I have an appointment **next week**". She said that she had an appointment **the following week**.
+- `last week/month/year` ➔ `the previous/week/month/year`
+  - "I was on holiday **last week**". He told us that he had been on holiday **the previous week**.
