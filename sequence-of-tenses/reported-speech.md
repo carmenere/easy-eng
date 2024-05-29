@@ -6,9 +6,11 @@
   - [Tenses](#tenses)
       - [Exceptions](#exceptions)
   - [Modal verbs](#modal-verbs)
-  - [`this` (for time)](#this-for-time)
-  - [this/that (adjectives)](#thisthat-adjectives)
   - [Adverbs of time and place](#adverbs-of-time-and-place)
+  - [Indirect questions](#indirect-questions)
+    - [Special questions](#special-questions)
+    - [General questions](#general-questions)
+  - [Indirect commands](#indirect-commands)
 
 <br>
 
@@ -73,7 +75,7 @@ Time shift
 <br>
 
 ## Modal verbs
-Modal verbs, that **change** in in reported speech::
+*Modal verbs* that **change** in reported speech:
 - `have to` ➔ `had to`
 - `may` ➔ `might`
 - `must` ➔ `had to`
@@ -83,7 +85,7 @@ Modal verbs, that **change** in in reported speech::
 
 <br>
 
-These modal verbs that **don't** change in reported speech:
+*Modal verbs* that **don't** *change* in reported speech:
 - `could`  ➔ `could`
 - `might`  ➔ `might`
 - `ought to`  ➔ `ought to`
@@ -91,39 +93,61 @@ These modal verbs that **don't** change in reported speech:
 
 <br>
 
-## `this` (for time)
-- `this week/month/year` ➔ `that week/month/year`
-
-<br>
-
-## this/that (adjectives)
-- `this/that` ➔ `the`
-
-<br>
-
 ## Adverbs of time and place
-- `ago` ➔ `before`
-  - "I saw her a week **ago**". He said he had seen her a week **before**.
-- `here` ➔ `there`
-  - "I live **here**". He told me he lived **there**.
-- `next year` ➔ `the next year`
 - `now` ➔ `then`
-- `the day after tomorrow` ➔ `two days later`
-  - "We'll come **the day after tomorrow**". They said that they would come in **two days later**.
-- `the day before yesterday` ➔ `two days before`
-  - "I met her **the day before yesterday**". He said that he had met her **two days before**.
 - `today` ➔ `that day`
-  - "I saw him **today**". She said that she had seen him **that day**.
+  - "I saw him **today**". ➔ She said that she had seen him **that day**.
 - `tomorrow` ➔ `the next day`
-  - "I'll see you **tomorrow**". He said that he would see me **the next day**.
+  - "I'll see you **tomorrow**". ➔ He said that he would see me **the next day**.
 - `tonight` ➔ `that night`
 - `yesterday` ➔ `the day before`
-  - "I saw him **yesterday**". She said that she had seen him **the day before**.
-- `this/that` (adjectives)
-  - "Do you like **this** shirt?". He asked if I liked **the** shirt.
-- `this/that` (for time)
-  - "I'm getting a new car **this week**". She said she was getting a new car **that week**.
+  - "I saw him **yesterday**". ➔ She said that she had seen him **the day before**.
+- `... ago` ➔ `... before`
+  - "I saw her a *week* **ago**". ➔ He said he had seen her a *week* **before**.
+
+<br>
+
+- `next year` ➔ `the next year`
 - `next week/month/year` ➔ `the following week/month/year`
-  - "I have an appointment **next week**". She said that she had an appointment **the following week**.
+  - "I have an appointment **next week**". ➔ She said that she had an appointment **the following week**.
 - `last week/month/year` ➔ `the previous/week/month/year`
-  - "I was on holiday **last week**". He told us that he had been on holiday **the previous week**.
+  - "I was on holiday **last week**". ➔ He told us that he had been on holiday **the previous week**.
+- `the day after tomorrow` ➔ `two days later`
+  - "We'll come **the day after tomorrow**". ➔ They said that they would come in **two days later**.
+- `the day before yesterday` ➔ `two days before`
+  - "I met her **the day before yesterday**". ➔ He said that he had met her **two days before**.
+
+<br>
+
+- `here` ➔ `there`
+  - "I live **here**". ➔ He told me he lived **there**.
+- `this/that` ➔ `that`
+  - "Do you like **this** shirt?". ➔ He asked if I liked **that** shirt.
+  - "I'm getting a new car **this week**". ➔ She said she was getting a new car **that week**.
+- `these` ➔ `those`
+  - "Do you like **these** shoes?". ➔ He asked if I liked **those** shirt.
+
+<br>
+
+## Indirect questions
+### Special questions
+- "**What are** you **doing**?". ➔ He asked (me) **what** I **was doing**.
+- "**Where do** you **live**?" ➔ He wanted to know **where** I **lived**.
+- "**What have** you **just done**?" ➔ He asked **what** he **had just done**.
+- "**When did** you **come** home yesterday?" ➔ He asked **when** I **had come** home the day before.
+- "**When will** she **come** home?" ➔ He asked **when** she **would come** home.
+
+<br>
+
+### General questions
+- "**Are** you **watching** TV?" ➔ He asked **whether**/**if** I **was watching** TV.
+- "**Do** you **play** chess?" ➔ He asked **whether**/**if** I **played** chess.
+- "**Does** she **go** to school?" ➔ He asked **whether**/**if** she **went** to school.
+- "**Have** you **done** your homework?" ➔ He asked **whether**/**if** I **had done** my homework.
+- "**Are** you **listening** to me?" ➔ He asked **whether**/**if** he **was listening** to him.
+- "**Will** you **see** your friend tomorrow?" ➔ He asked **whether**/**if** she **would see** her friend the next day.
+
+<br>
+
+## Indirect commands
+- "**Keep** quiet! **Don't make** noise!" ➔ He told me **to keep** quiet and **not to make** noise.
