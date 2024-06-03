@@ -1,6 +1,6 @@
 # Singular vs. Plural
-- **singular** /ˈsɪŋɡjələ(r)/ a form of a noun or verb that refers **to one** person or thing 
-- **plural** /ˈplʊrəl/ a form of a noun or verb that refers to **more than one** person or thing
+- **singular** (/ˈsɪŋɡjələ(r)/) a form of a noun or verb that refers **to one** person or thing;
+- **plural** (/ˈplʊə.rəl/, /ˈplʊrəl/) a form of a noun or verb that refers to **more than one** person or thing;
 
 <br>
 
@@ -85,7 +85,7 @@ Some nouns ending in `f` or `fe` take only `s` in the plural.
 
 ### Examples
 - a roo**f** → two roo**f**`s`
-- a giraf**fe** → two giraf**fe**`s` (/dʒəˈræf/)
+- a giraf**fe** → two giraf**fe**`s` (/dʒɪˈrɑːf/)
 - a clif**f** → two clif**f**`s`
 
 <br>
@@ -139,16 +139,23 @@ The suffix of the plural form is pronounced `/z/` when the noun ends in any othe
 <br>
 
 # Irregular /ɪˈreɡjələ(r)/ plurals
-1. a man → two men (/mæn/ → /men/) (policeman /pəˈliːsmən/ → policemen)
-2. a woman → two women (/ˈwʊmən/ → /ˈwɪmɪn/)
-3. a tooth → two teeth (/tuːθ/ → /tiːθ/)
-4. a foot → two feet (/fʊt/ → /fiːt/)
-5. a goose → two geese (/ɡuːs/ → /ɡiːs/)
-6. a ox → two oxen (/ɒks/ → /ˈɒksn/)
-7. a deer → two deer (/dɪə(r)/ → /dɪə(r)/)
-8. a sheep → two sheep (/ʃiːp/ → /ʃiːp/)
-9. a mouse → two mice (/maʊs/ → /maɪs/)
-10. a child → two children (/tʃaɪld/ → /ˈtʃɪldrən/)
+1. a man → *two* men (/mæn/ → /men/)
+   - policeman → *two* policemen  (/pəˈliːs.mən/ → /pəˈliːs.mən/)
+2. a woman → *two* women (/ˈwʊmən/ → /ˈwɪmɪn/)
+3. a tooth → *two* teeth (/tuːθ/ → /tiːθ/)
+4. a foot → *two* feet (/fʊt/ → /fiːt/)
+5. a goose → *two* geese (/ɡuːs/ → /ɡiːs/)
+6. a ox → *two* oxen (/ɒks/ → /ˈɒksn/)
+7. a mouse → *two* mice (/maʊs/ → /maɪs/)
+8.  a child → *two* children (/tʃaɪld/ → /ˈtʃɪldrən/)
+
+<br>
+
+The same form:
+1. a deer → *two* deer (/dɪə(r)/ → /dɪə(r)/)
+2. a sheep → *two* sheep (/ʃiːp/ → /ʃiːp/)
+3. a swine → *two* swine (if means animal `pig`)
+   - **but** a swine → two swines (if means extremely unpleasant and unkind person)
 
 <br>
 
@@ -222,7 +229,6 @@ The suffix of the plural form is pronounced `/z/` when the noun ends in any othe
 - rhino
 - roof
 - room
-- rose
 - rose
 - sandwich
 - sheep
